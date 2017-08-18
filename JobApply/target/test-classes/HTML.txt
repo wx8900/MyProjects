@@ -1,0 +1,652 @@
+https://www.indeed.com/jobs?q=PHP&l=Thousand+Oaks%2C+CA&start=10&pp=AAoAAAAAAAAAAAAAAAEFPK6_AQABhSLrgxjhKAB7cOk96NGi7vs_y3Q
+<td id="resultsCol">
+<div class="messageContainer">
+
+<script type="text/javascript">
+function setJaPromoCookie() {
+var expires = new Date();
+expires.setTime(expires.getTime() + (5 * 365 * 24 * 60 * 60 * 1000));
+setCookie("showJaPromo", "1", expires);
+}
+function setRefineByCookie(refineByTypes) {
+var expires = new Date();
+expires.setTime(expires.getTime() + (10 * 1000));
+for (var i = 0; i < refineByTypes.length; i++) {
+setCookie(refineByTypes[i], "1", expires);
+}
+}
+</script>
+
+</div>
+
+<style type="text/css">
+#increased_radius_result {
+font-size: 16px;
+font-style: italic;
+}
+#original_radius_result{
+font-size: 13px;
+font-style: italic;
+}
+</style>
+<div class="resultsTop"><div id="searchCount">Jobs 1 to 10 of 226</div>
+<div id="primePromo" data-tn-section="primePromo">
+<span class="new">New!</span> <a href="/promo/prime" onclick="this.href = appendParamsOnce( this.href, '?from=serptop&amp;subfrom=primeprmtop&amp;trk.origin=jobsearch&amp;trk.variant=primeprmtop&amp;trk.tk=1barg0ok21e8b2o3&amp;vertical=TECH&amp;x_isid=serptop&amp;x_ikw=PHP&amp;x_sid=serptop&amp;x_kw=PHP')">Join Indeed Prime</a> - Get offers from great tech companies</div></div>
+
+<script type="text/javascript">
+window['sjl'] = "uB7NlC8Gg1";
+</script>
+<style type="text/css">
+.uB7NlC8Gg1 { margin: 0 0 6px 0; padding: 0; _zoom:100%; border: 0; background-color: #fff; }
+.uB7NlC8Gg1 .jobtitle { white-space: nowrap; float:@LINE_START@; _float: none; }
+.uB7NlC8Gg1 .sdn { color: #CD29C0; }
+.rnyQyCY .brdr { margin-top: 12px; }
+.X0oyMb5 .brdr { margin-bottom: 12px; }
+@media only screen and (min-height:780px) {
+.rnyQyCY { margin-bottom: 9px; }
+.X0oyMb5 .brdr,
+.KsJRiEO60,
+.rnyQyCY .brdr { margin-bottom: 9px; margin-top: 9px; }
+}
+</style>
+<style type="text/css">
+.result-tab:empty {margin-top: 0;}
+.rnyQyCY {
+margin-bottom: 0;
+}
+@media only screen and (min-height:780px) {
+.rnyQyCY {
+margin-bottom: 0;
+}
+}
+</style>
+<div></div>
+<a id="jobPostingsAnchor" tabindex="-1"></a>
+
+<div class="uB7NlC8Gg1 rnyQyCY">
+<div class="row  result" id="pj_66b50106a331dc8f" data-jk="66b50106a331dc8f">
+<a target="_blank" id="sja1" data-tn-element="jobTitle" class="jobtitle turnstileLink" href="/pagead/clk?mo=r&amp;ad=-6NYlbfkN0CFwdyJ9oqS5yKqIO1d8DskTchyTS6013AGKAPZvJWfaWJDqrmZSVY6cvNGB2UTYHgP4PqYc2-5L5lwYOHyMZ8GpJdSGxEicBuJtcHbi07gVmDU6rcsb4xcFDsJ1ZLRp8DuZ3QoW9mnPJBWxklPZUBkquwRFON4XCmswHDTlleZ0e8NzRIldpRovko1VPsVezR4mAGkkxDbWPfO21MNnyKbUmxs76AHaVLOJPP_qhRA_QlZfV0b9xiCUBPAFUXgvvb2ZCTp5ccBe5SDSlU1NBGgcgTsLagCyATyfF1F5zQ2q35MP4Z9M7Y9L3rqnJdoHF2eaAU-qEzEeL6pmVHxGXGwmPDFKYiJDfr0w3Lmpat_X0AlfgJCQAqLCgwlKX7CbiefsC09dREANP2cYbPTPquCqqrIIelbx5k2lBjgn2yky2Iampq0XvhGFbRNtAfR4R2sVG9JA54yIY4wSsy_MzOSaqBmHFmvVXh3kLTd6XHaBcIQP_P4kc6b4IjWWnU-NsBssG6fs807jXwQiGG5uPaMpWloZvNb_u4XLekPWb3-2A2k9Exm8VhS3DS2fxse27yGDXeY5Ln_Bc6_GVYon8rI9ogzk8wkzHd0Ntv3EVxX4M4iT-4zKBFSoarBmG8ZypSxZC1lhw8Thg==&amp;p=1&amp;sk=&amp;fvj=0" title="Senior Software Engineer (PHP Developer)" rel="nofollow" onmousedown="sjomd('sja1'); clk('sja1');" onclick="setRefineByCookie([]); sjoc('sja1',0); convCtr('SJ', pingUrlsForGA)">Senior Software Engineer (<b>PHP</b> Developer)</a>
+<br>
+<div class="sjcl">
+<span class="company">
+    <a data-tn-element="companyName" class="turnstileLink" target="_blank" href="/cmp/Golden-Hippo-Media" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=66b50106a331dc8f&amp;jcid=5f16ce4c0366b238')" rel="nofollow">
+        Golden Hippo Media</a></span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Golden-Hippo-Media/reviews" title="Golden Hippo Media reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Senior+Software+Engineer+%28PHP+Developer%29&amp;fromjk=66b50106a331dc8f&amp;jcid=5f16ce4c0366b238');" target="_blank" rel="nofollow">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 18.0px;"><!-- --></span></span><span class="slNoUnderline">2 reviews</span></a>
+ - <span class="location">Calabasas, CA</span>
+</div>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="snip">
+<span class="summary">Demonstrated 5+ Year experience with building software using <b>PHP</b> and/or Python. Golden Hippo Media is seeking a mid-senior level software developer with Object...</span>
+</td></tr></tbody></table>
+<div class="sjCapt">
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class=" jasx_serpsjlabel_poststGray ">Sponsored</span> - <span id="tt_set_10" class="tt_set"><span id="savelink2_66b50106a331dc8f" class="savelink2"><a id="sj_66b50106a331dc8f" href="#" class="sl resultLink save-job-link" onclick="changeJobState('66b50106a331dc8f', 'save', 'linkbar', true);return false;" title="Save this job to my.indeed">save job</a></span></span><div id="editsaved2_66b50106a331dc8f" class="edit_note_content" style="display:none;"></div><script>window['sj_result_66b50106a331dc8f'] = {"showSource": false, "source": "Golden Hippo Media", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","jobKey": "66b50106a331dc8f", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": false, "resultNumber": 10, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": false, "currentPage" : "serp", "sponsored" : true,"showSponsor" : true,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": true, "showJobAge": true};</script></div></div>
+<div class="tab-container">
+<div class="sign-in-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+</div>
+</div>
+</div>
+<div class="row  result" id="pj_cbccdbe45d8074f8" data-jk="cbccdbe45d8074f8">
+<a target="_blank" id="sja2" data-tn-element="jobTitle" class="jobtitle turnstileLink" href="/pagead/clk?mo=r&amp;ad=-6NYlbfkN0BiX384T7g-jt6PbfztKzez2HuSOzYwIbGUNZ8pWfz46imKIG9sR7YbKE9haZz3Wh9g3mdXbZj9g5pejvRztGmf6aIFBM--b7ctyGYl-7F8C1GnKLM6uGNXRwXxhHCh47E0SIpeq3WkXJk-1dlLSLZikwvvNv3l79mQs59KUQ7mQMvcvdutQcFjIcNeTyL6KrGklO4iuPYzI63V2LGCi4d8S8AFZvGvjNGAIrd3uNwDLXoMwKMstqOX_bNxsyNAYvzUq6et29EzIBIIqUVjE4JioDa_Q5HoHYKa1RRAaN_tLiTSHlP4Wdt57Sx-n_Sp-Wgke17EnF6E6GHXJhubDfhaBeaiOThveOPkaisFLX4zC5nSl7M6jdERFHAVao4hxmwLBHgZg90p9p7bgT52wzc6Luj_a23pkNhD7AndrtLemcJvLQ3HWm8tqJ-ogTD67FZdjf3INr1U8jCVRXsgwGdp&amp;p=2&amp;sk=&amp;fvj=0" title="Senior DevOps Engineer" rel="nofollow" onmousedown="sjomd('sja2'); clk('sja2');" onclick="setRefineByCookie([]); sjoc('sja2',0); convCtr('SJ', pingUrlsForGA)">Senior DevOps Engineer</a>
+<br>
+<div class="sjcl">
+<span class="company">
+    <a data-tn-element="companyName" class="turnstileLink" target="_blank" href="/cmp/Beachbody" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=cbccdbe45d8074f8&amp;jcid=5a65724ac3880f3d')">
+        Beachbody</a></span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Beachbody/reviews" title="Beachbody reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Senior+DevOps+Engineer&amp;fromjk=cbccdbe45d8074f8&amp;jcid=5a65724ac3880f3d');" target="_blank">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 51.6px;"><!-- --></span></span><span class="slNoUnderline">105 reviews</span></a>
+ - <span class="location">Westlake Village, CA</span>
+</div>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="snip">
+<span class="summary">You will be heavily involved with CentOS 6/7 Linux Servers running Apache/Nginx web servers written in <b>PHP</b>, Ruby, NodeJS utilizing services such as...</span>
+</td></tr></tbody></table>
+<div class="sjCapt">
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class=" jasx_serpsjlabel_poststGray ">Sponsored</span> - <span id="tt_set_11" class="tt_set"><span id="savelink2_cbccdbe45d8074f8" class="savelink2"><a id="sj_cbccdbe45d8074f8" href="#" class="sl resultLink save-job-link" onclick="changeJobState('cbccdbe45d8074f8', 'save', 'linkbar', true);return false;" title="Save this job to my.indeed">save job</a></span></span><div id="editsaved2_cbccdbe45d8074f8" class="edit_note_content" style="display:none;"></div><script>window['sj_result_cbccdbe45d8074f8'] = {"showSource": false, "source": "Beachbody", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","jobKey": "cbccdbe45d8074f8", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": false, "resultNumber": 11, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": false, "currentPage" : "serp", "sponsored" : true,"showSponsor" : true,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": true, "showJobAge": true};</script></div></div>
+<div class="tab-container">
+<div class="sign-in-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+</div>
+</div>
+</div>
+<div class="row sjlast result" id="pj_3223428de15af92b" data-jk="3223428de15af92b">
+<a target="_blank" id="sja3" data-tn-element="jobTitle" class="jobtitle turnstileLink" href="/pagead/clk?mo=r&amp;ad=-6NYlbfkN0Dlj_mRD_LyQ8KKWuRudeiR9RIQIp7D-AgmMWKeDe1oCJc3LMJRsfq5Hcwg7BF-qNBCShTefQFzl8Lp2t5DpgNy5TD2Pmq_0o_C-6QJuMEfnpPBqn2YNMJZk42s4oEHSybjlttzWXbXfYM72XsBcPBVprYu9HVvDcC1FM-4Boou01FOnKxwPqUteVsfIM-PVGGYwq0dcKElBjit_SCOmhFH-2yIvJxFKmG0NHbi_kQpUjikEvhapWFBtDsrIdQwu1Z-RktFZHy9NgSIHNuzFyUHrOCF1t1_3UCjn7kcJ2llt3-eNkrAyAdc3myrJjoDDF5RSr4YR23ZVU_Ha5eCCZehu_s4cary4Go_gT8Bv1l2LwEAYvJp5PMpKAAf2w9IMrNuWMMaPkylbdgtzcUDWl7aN1ocxR91tJikVnmuUxvr5zSnzLNsDrDLEmcwzT6pIyp-PZbUDpSobg==&amp;p=3&amp;sk=&amp;fvj=1" title="Senior Full Stack Developer" rel="nofollow" onmousedown="sjomd('sja3'); clk('sja3');" onclick="setRefineByCookie([]); sjoc('sja3',0); convCtr('SJ', pingUrlsForGA)">Senior Full Stack Developer</a>
+<br>
+<div class="sjcl">
+<span class="company">
+    Logistics Team / SB Freight</span>
+
+ - <span class="location">Los Angeles, CA</span>
+</div>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="snip">
+<span class="summary">Mysql, <b>php</b>, js, html:. 2+ years of experience with mysql, <b>php</b>, js, html, css. Collaborate to create solutions to fulfill clients requests within the boundaries...</span>
+</td></tr></tbody></table>
+<div class="sjCapt">
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class=" jasx_serpsjlabel_poststGray ">Sponsored</span> - <span id="tt_set_12" class="tt_set"><span id="savelink2_3223428de15af92b" class="savelink2"><a id="sj_3223428de15af92b" href="#" class="sl resultLink save-job-link" onclick="changeJobState('3223428de15af92b', 'save', 'linkbar', true);return false;" title="Save this job to my.indeed">save job</a></span></span><div id="editsaved2_3223428de15af92b" class="edit_note_content" style="display:none;"></div><script>window['sj_result_3223428de15af92b'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","jobKey": "3223428de15af92b", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": false, "resultNumber": 12, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": false, "currentPage" : "serp", "sponsored" : true,"showSponsor" : true,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": true, "showJobAge": true};</script></div></div>
+<div class="tab-container">
+<div class="sign-in-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="  row  result" id="p_66b50106a331dc8f" data-jk="66b50106a331dc8f" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_66b50106a331dc8f" class="jobtitle">
+<a rel="nofollow" href="/rc/clk?jk=66b50106a331dc8f&amp;fccid=d41db3347e0de1ae" target="_blank" onmousedown="return rclk(this,jobmap[0],0);" onclick="setRefineByCookie([]); return rclk(this,jobmap[0],true,0);" itemprop="title" title="Senior Software Engineer (PHP Developer)" class="turnstileLink" data-tn-element="jobTitle">Senior Software Engineer (<b>PHP</b> Developer)</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    <a href="/cmp/Golden-Hippo-Media" target="_blank" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=66b50106a331dc8f&amp;jcid=5f16ce4c0366b238')" rel="nofollow">
+        Golden Hippo Media</a></span>
+</span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Golden-Hippo-Media/reviews" title="Golden Hippo Media reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Senior+Software+Engineer+%28PHP+Developer%29&amp;fromjk=66b50106a331dc8f&amp;jcid=5f16ce4c0366b238');" target="_blank" rel="nofollow">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 18.0px;"><!-- --></span></span><span class="slNoUnderline">2 reviews</span></a>
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Calabasas, CA</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<div>
+<span class="summary" itemprop="description">
+Demonstrated 5+ Year experience with building software using <b>PHP</b> and/or Python. Golden Hippo Media is seeking a mid-senior level software developer with Object...</span>
+</div>
+
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">30+ days ago</span> <span id="tt_set_0" class="tt_set">  -  <span id="savelink2_66b50106a331dc8f" class="savelink2"><a id="sj_66b50106a331dc8f" href="#" class="sl resultLink save-job-link" onclick="changeJobState('66b50106a331dc8f', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_0" class="sl resultLink more-link " onclick="toggleMoreLinks('66b50106a331dc8f'); return false;">more...</a></span><div id="editsaved2_66b50106a331dc8f" class="edit_note_content" style="display:none;"></div><script>window['result_66b50106a331dc8f'] = {"showSource": false, "source": "Golden Hippo Media", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "30+ days ago","jobKey": "66b50106a331dc8f", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 0, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_0" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('66b50106a331dc8f'); return false;"></a><div id="more_0" class="more_actions"><ul><li><span class="mat">View all <a href="/q-Golden-Hippo-Media-l-Calabasas,-CA-jobs.html" rel="nofollow">Golden Hippo Media jobs in Calabasas, CA</a> - <a href="/l-Calabasas,-CA-jobs.html">Calabasas jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Senior-Software-Developer-Salaries,-Calabasas-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=66b50106a331dc8f&amp;from=serp-more');">Senior Software Developer salaries in Calabasas, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Golden-Hippo-Media" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=66b50106a331dc8f&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=5f16ce4c0366b238');">Golden Hippo Media</a></span></li><li><span class="mat">Related forums: <a href="/forum/cmp/Golden-Hippo-Media.html">Golden Hippo Media</a> - <a href="/forum/loc/Calabasas-California.html">Calabasas, California</a> - <a href="/forum/job/Software-Engineer.html">Software Engineer</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_45dbe8d02030d1c3" data-jk="45dbe8d02030d1c3" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_45dbe8d02030d1c3" class="jobtitle">
+<a rel="nofollow" href="/company/Rooftop-Digital,-LLC/jobs/Front-End-Developer-45dbe8d02030d1c3?fccid=54d941ce92ac23fa" target="_blank" onmousedown="return rclk(this,jobmap[1],1);" onclick="setRefineByCookie([]); return rclk(this,jobmap[1],true,1);" itemprop="title" title="Front End Developer" class="turnstileLink" data-tn-element="jobTitle">Front End Developer</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    Rooftop Digital, LLC</span>
+</span>
+
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Agoura Hills, CA</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<nobr>$65,000 - $80,000 a year</nobr>
+<div>
+<span class="summary" itemprop="description">
+Ability to work around <b>php</b>. We’re a small and fun company with a young, motivated team and are looking for a front-end developer to focus on development and...</span>
+</div>
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">2 days ago</span> <span id="tt_set_1" class="tt_set">  -  <span id="savelink2_45dbe8d02030d1c3" class="savelink2"><a id="sj_45dbe8d02030d1c3" href="#" class="sl resultLink save-job-link" onclick="changeJobState('45dbe8d02030d1c3', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_1" class="sl resultLink more-link " onclick="toggleMoreLinks('45dbe8d02030d1c3'); return false;">more...</a></span><div id="editsaved2_45dbe8d02030d1c3" class="edit_note_content" style="display:none;"></div><script>window['result_45dbe8d02030d1c3'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "2 days ago","jobKey": "45dbe8d02030d1c3", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 1, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_1" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('45dbe8d02030d1c3'); return false;"></a><div id="more_1" class="more_actions"><ul><li><span class="mat">View all <a href="/jobs?q=Rooftop+Digital,+LLC&amp;l=Agoura+Hills,+CA&amp;nc=jasx" rel="nofollow">Rooftop Digital, LLC jobs in Agoura Hills, CA</a> - <a href="/l-Agoura-Hills,-CA-jobs.html">Agoura Hills jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Front-End-Developer-Salaries,-Agoura-Hills-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=45dbe8d02030d1c3&amp;from=serp-more');">Front End Developer salaries in Agoura Hills, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Rooftop-Digital,-LLC" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=45dbe8d02030d1c3&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=b03ba0ade8e27e9f');">Rooftop Digital, LLC</a></span></li><li><span class="mat">Related forums: <a href="/forum/cmp/Rooftop-Digital%2C-LLC.html">Rooftop Digital, LLC</a> - <a href="/forum/loc/Agoura-Hills-California.html">Agoura Hills, California</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_abd11b827a524714" data-jk="abd11b827a524714" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_abd11b827a524714" class="jobtitle">
+<a rel="nofollow" href="/company/BTO-Sports,-Inc./jobs/Web-Developer-abd11b827a524714?fccid=e3ae139042225ffd" target="_blank" onmousedown="return rclk(this,jobmap[2],1);" onclick="setRefineByCookie([]); return rclk(this,jobmap[2],true,1);" itemprop="title" title="Web Developer" class="turnstileLink" data-tn-element="jobTitle">Web Developer</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    BTO Sports, Inc.</span>
+</span>
+
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Camarillo, CA 93012</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<nobr>$12 - $13 an hour</nobr>
+<div>
+<span class="summary" itemprop="description">
+BTO Sports, Inc. is an eCommerce company that markets and distributes gear, parts, and accessories for various motor sports. WEB BUILDER JOB DESCRIPTION: </span>
+</div>
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">2 days ago</span> <span id="tt_set_2" class="tt_set">  -  <span id="savelink2_abd11b827a524714" class="savelink2"><a id="sj_abd11b827a524714" href="#" class="sl resultLink save-job-link" onclick="changeJobState('abd11b827a524714', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_2" class="sl resultLink more-link " onclick="toggleMoreLinks('abd11b827a524714'); return false;">more...</a></span><div id="editsaved2_abd11b827a524714" class="edit_note_content" style="display:none;"></div><script>window['result_abd11b827a524714'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "2 days ago","jobKey": "abd11b827a524714", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 2, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_2" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('abd11b827a524714'); return false;"></a><div id="more_2" class="more_actions"><ul><li><span class="mat">View all <a href="/jobs?q=Bto+Sports,+Inc&amp;l=Camarillo,+CA&amp;nc=jasx" rel="nofollow">BTO Sports, Inc. jobs in Camarillo, CA</a> - <a href="/l-Camarillo,-CA-jobs.html">Camarillo jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Web-Developer-Salaries,-Camarillo-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=abd11b827a524714&amp;from=serp-more');">Web Developer salaries in Camarillo, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Bto-Sports,-Inc.-1" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=abd11b827a524714&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=fcdd8081d21b982c');">Bto Sports, Inc.</a></span></li><li><span class="mat">Related forums: <a href="/forum/job/Web-Developer.html">Web Developer</a> - <a href="/forum/loc/Camarillo-California.html">Camarillo, California</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_cf045965eabeace8" data-jk="cf045965eabeace8" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_cf045965eabeace8" class="jobtitle">
+<a rel="nofollow" href="/company/Tried-&amp;-True-Tutoring/jobs/Full-Stack-Developer-Software-Architect-cf045965eabeace8?fccid=4ca161b0b38fe72f" target="_blank" onmousedown="return rclk(this,jobmap[3],1);" onclick="setRefineByCookie([]); return rclk(this,jobmap[3],true,1);" itemprop="title" title="Hiring Full Stack Developer/Software Architect - Educational Start-Up" class="turnstileLink" data-tn-element="jobTitle">Hiring Full Stack Developer/Software Architect - Educational...</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    <a href="/cmp/Tried-&amp;-True-Tutoring" target="_blank" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=cf045965eabeace8&amp;jcid=e4f9b16d16067ca1')">
+        Tried &amp; True Tutoring</a></span>
+</span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Tried-&amp;-True-Tutoring/reviews" title="Tried &amp; True Tutoring reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Hiring+Full+Stack+Developer%5C%2FSoftware+Architect+-+Educational+Start-Up&amp;fromjk=cf045965eabeace8&amp;jcid=e4f9b16d16067ca1');" target="_blank">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 56.4px;"><!-- --></span></span><span class="slNoUnderline">7 reviews</span></a>
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Calabasas, CA</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<nobr>$60,000 a year</nobr>
+<div>
+<span class="summary" itemprop="description">
+Knowledge of <b>PHP</b> and/or Ruby is a must. Tried &amp; True Tutoring is a tutoring company based in Calabasas, CA, with branches in LA, SD, SF, Seattle and Phoenix....</span>
+</div>
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">2 days ago</span> <span id="tt_set_3" class="tt_set">  -  <span id="savelink2_cf045965eabeace8" class="savelink2"><a id="sj_cf045965eabeace8" href="#" class="sl resultLink save-job-link" onclick="changeJobState('cf045965eabeace8', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_3" class="sl resultLink more-link " onclick="toggleMoreLinks('cf045965eabeace8'); return false;">more...</a></span><div id="editsaved2_cf045965eabeace8" class="edit_note_content" style="display:none;"></div><script>window['result_cf045965eabeace8'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "2 days ago","jobKey": "cf045965eabeace8", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 3, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_3" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('cf045965eabeace8'); return false;"></a><div id="more_3" class="more_actions"><ul><li><span class="mat">View all <a href="/q-Tried-&amp;-True-Tutoring-l-Calabasas,-CA-jobs.html" rel="nofollow">Tried &amp; True Tutoring jobs in Calabasas, CA</a> - <a href="/l-Calabasas,-CA-jobs.html">Calabasas jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Full-Stack-Developer-Salaries,-Calabasas-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=cf045965eabeace8&amp;from=serp-more');">Full Stack Developer salaries in Calabasas, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Tried-&amp;-True-Tutoring" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=cf045965eabeace8&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=e4f9b16d16067ca1');">Tried &amp; True Tutoring</a></span></li><li><span class="mat"><a href="/cmp/Tried-&amp;-True-Tutoring/faq" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=cf045965eabeace8&amp;jcid=e4f9b16d16067ca1');">Tried &amp; True Tutoring questions about work, benefits, interviews and hiring process:</a><ul><li><a href="/cmp/Tried-&amp;-True-Tutoring/faq/what-salaried-do-regional-director-of-sales-make?quid=1aqurf17oaqiqea8" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=cf045965eabeace8&amp;jcid=e4f9b16d16067ca1');">What salaried do Regional Director of Sales make</a></li><li><a href="/cmp/Tried-&amp;-True-Tutoring/faq/is-there-a-maximum-amount-of-hours-per-day-a-tutor-can-work-if-so-what-is-it?quid=1b60ver65bvu9amv" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=cf045965eabeace8&amp;jcid=e4f9b16d16067ca1');">Is there a maximum amount of hours per day a tutor can work? If so, what...</a></li></ul></span></li><li><span class="mat">Related forums: <a href="/forum/cmp/Tried-%26-True-Tutoring.html">Tried &amp; True Tutoring</a> - <a href="/forum/loc/Calabasas-California.html">Calabasas, California</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_504576d95684f7fd" data-jk="504576d95684f7fd" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_504576d95684f7fd" class="jobtitle">
+<a rel="nofollow" href="/company/Pleasant-Holidays,-LLC/jobs/Web-Designer-Jweb-Content-Specialist-504576d95684f7fd?fccid=30df4709793d9753" target="_blank" onmousedown="return rclk(this,jobmap[4],0);" onclick="setRefineByCookie([]); return rclk(this,jobmap[4],true,0);" itemprop="title" title="Web Designer/jWeb Content Specialist" class="turnstileLink" data-tn-element="jobTitle">Web Designer/jWeb Content Specialist</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    Pleasant Holidays, LLC</span>
+</span>
+
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Westlake Village, CA 91361</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<div>
+<span class="summary" itemprop="description">
+Pleasant Holidays is one of the leading travel companies to the Caribbean, Central America, Europe, Hawaii, Mexico, South Pacific, United States &amp; Canada, and</span>
+</div>
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">24 days ago</span> <span id="tt_set_4" class="tt_set">  -  <span id="savelink2_504576d95684f7fd" class="savelink2"><a id="sj_504576d95684f7fd" href="#" class="sl resultLink save-job-link" onclick="changeJobState('504576d95684f7fd', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_4" class="sl resultLink more-link " onclick="toggleMoreLinks('504576d95684f7fd'); return false;">more...</a></span><div id="editsaved2_504576d95684f7fd" class="edit_note_content" style="display:none;"></div><script>window['result_504576d95684f7fd'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "24 days ago","jobKey": "504576d95684f7fd", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 4, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_4" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('504576d95684f7fd'); return false;"></a><div id="more_4" class="more_actions"><ul><li><span class="mat">View all <a href="/jobs?q=Pleasant+Holidays,+LLC&amp;l=Westlake+Village,+CA&amp;nc=jasx" rel="nofollow">Pleasant Holidays, LLC jobs in Westlake Village, CA</a> - <a href="/l-Westlake-Village,-CA-jobs.html">Westlake Village jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Web-Designer-Salaries,-Westlake-Village-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=504576d95684f7fd&amp;from=serp-more');">Web Designer salaries in Westlake Village, CA</a></span></li><li><span class="mat">Related forums: <a href="/forum/cmp/Pleasant-Holidays%2C-LLC.html">Pleasant Holidays, LLC</a> - <a href="/forum/loc/Westlake-Village-California.html">Westlake Village, California</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_9d22691ee44cc144" data-jk="9d22691ee44cc144" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_9d22691ee44cc144" class="jobtitle">
+<a rel="nofollow" href="/company/Mustang-Marketing/jobs/Web-Designer-Developer-9d22691ee44cc144?fccid=a27f0879096ceef9" target="_blank" onmousedown="return rclk(this,jobmap[5],0);" onclick="setRefineByCookie([]); return rclk(this,jobmap[5],true,0);" itemprop="title" title="Web Designer/Developer" class="turnstileLink" data-tn-element="jobTitle">Web Designer/Developer</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    Mustang Marketing</span>
+</span>
+
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Thousand Oaks, CA</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<div>
+<span class="summary" itemprop="description">
+This person should have strong knowledge of HTML/HTML5, CSS, <b>PHP</b>, JAVA, WordPress, ASP, Responsive design and Photoshop....</span>
+</div>
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">30 days ago</span> <span id="tt_set_5" class="tt_set">  -  <span id="savelink2_9d22691ee44cc144" class="savelink2"><a id="sj_9d22691ee44cc144" href="#" class="sl resultLink save-job-link" onclick="changeJobState('9d22691ee44cc144', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_5" class="sl resultLink more-link " onclick="toggleMoreLinks('9d22691ee44cc144'); return false;">more...</a></span><div id="editsaved2_9d22691ee44cc144" class="edit_note_content" style="display:none;"></div><script>window['result_9d22691ee44cc144'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "30 days ago","jobKey": "9d22691ee44cc144", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 5, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_5" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('9d22691ee44cc144'); return false;"></a><div id="more_5" class="more_actions"><ul><li><span class="mat">View all <a href="/q-Mustang-Marketing-l-Thousand-Oaks,-CA-jobs.html" rel="nofollow">Mustang Marketing jobs in Thousand Oaks, CA</a> - <a href="/l-Thousand-Oaks,-CA-jobs.html">Thousand Oaks jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Web-Designer-Salaries,-Thousand-Oaks-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=9d22691ee44cc144&amp;from=serp-more-nofollow');" rel="&quot;nofollow&quot;">Web Designer salaries in Thousand Oaks, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Mustang-Marketing" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=9d22691ee44cc144&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=a27f0879096ceef9');">Mustang Marketing</a></span></li><li><span class="mat">Related forums: <a href="/forum/loc/Thousand-Oaks-California.html">Thousand Oaks, California</a> - <a href="/forum/cmp/Mustang-Marketing.html">Mustang Marketing</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_14b5c799ea4b2178" data-jk="14b5c799ea4b2178" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_14b5c799ea4b2178" class="jobtitle">
+<a rel="nofollow" href="/rc/clk?jk=14b5c799ea4b2178&amp;fccid=fa0ca3b638673d62" target="_blank" onmousedown="return rclk(this,jobmap[6],0);" onclick="setRefineByCookie([]); return rclk(this,jobmap[6],true,0);" itemprop="title" title="Developer/Engineer I" class="turnstileLink" data-tn-element="jobTitle">Developer/Engineer I</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    <a href="/cmp/Dun-&amp;-Bradstreet" target="_blank" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=14b5c799ea4b2178&amp;jcid=fa0ca3b638673d62')">
+        Dun &amp; Bradstreet</a></span>
+</span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Dun-&amp;-Bradstreet/reviews" title="Dun &amp; Bradstreet reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Developer%5C%2FEngineer+I&amp;fromjk=14b5c799ea4b2178&amp;jcid=fa0ca3b638673d62');" target="_blank">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 52.199997px;"><!-- --></span></span><span class="slNoUnderline">19 reviews</span></a>
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Malibu, CA</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<div>
+<span class="summary" itemprop="description">
+Experience with <b>PHP</b>, SEO, iPhone/Android development. Why We Work at Dun &amp; Bradstreet....</span>
+</div>
+
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">7 days ago</span> <span id="tt_set_6" class="tt_set">  -  <span id="savelink2_14b5c799ea4b2178" class="savelink2"><a id="sj_14b5c799ea4b2178" href="#" class="sl resultLink save-job-link" onclick="changeJobState('14b5c799ea4b2178', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_6" class="sl resultLink more-link " onclick="toggleMoreLinks('14b5c799ea4b2178'); return false;">more...</a></span><div id="editsaved2_14b5c799ea4b2178" class="edit_note_content" style="display:none;"></div><script>window['result_14b5c799ea4b2178'] = {"showSource": false, "source": "Dun \x26 Bradstreet", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "7 days ago","jobKey": "14b5c799ea4b2178", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 6, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_6" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('14b5c799ea4b2178'); return false;"></a><div id="more_6" class="more_actions"><ul><li><span class="mat">View all <a href="/q-Dun-&amp;-Bradstreet-l-Malibu,-CA-jobs.html" rel="nofollow">Dun &amp; Bradstreet jobs in Malibu, CA</a> - <a href="/l-Malibu,-CA-jobs.html">Malibu jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Developer-Salaries,-Malibu-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=14b5c799ea4b2178&amp;from=serp-more-nofollow');" rel="&quot;nofollow&quot;">Developer salaries in Malibu, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Dun-&amp;-Bradstreet" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=14b5c799ea4b2178&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=fa0ca3b638673d62');">Dun &amp; Bradstreet</a></span></li><li><span class="mat"><a href="/cmp/Dun-&amp;-Bradstreet/faq" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=14b5c799ea4b2178&amp;jcid=fa0ca3b638673d62');">Dun &amp; Bradstreet questions about work, benefits, interviews and hiring process:</a><ul><li><a href="/cmp/Dun-&amp;-Bradstreet/faq/how-do-you-feel-about-the-future-of-dun-bradstreet?quid=1b1mov4vaaqjua08" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=14b5c799ea4b2178&amp;jcid=fa0ca3b638673d62');">How do you feel about the future of Dun &amp; Bradstreet?</a></li><li><a href="/cmp/Dun-&amp;-Bradstreet/faq/what-is-the-sick-leave-policy-like-how-many-sick-days-do-you-get-per-year?quid=1b1mov4vjak7gcer" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=14b5c799ea4b2178&amp;jcid=fa0ca3b638673d62');">What is the sick leave policy like? How many sick days do you get per year?</a></li></ul></span></li><li><span class="mat">Related forums: <a href="/forum/loc/Malibu-California.html">Malibu, California</a> - <a href="/forum/cmp/Dun-%26-Bradstreet.html">Dun &amp; Bradstreet</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_ad8123b75af3fbed" data-jk="ad8123b75af3fbed" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_ad8123b75af3fbed" class="jobtitle">
+<a rel="nofollow" href="/rc/clk?jk=ad8123b75af3fbed&amp;fccid=bdf1ab1e372a4e69" target="_blank" onmousedown="return rclk(this,jobmap[7],0);" onclick="setRefineByCookie([]); return rclk(this,jobmap[7],true,0);" itemprop="title" title="Senior Back End Engineer" class="turnstileLink" data-tn-element="jobTitle">Senior Back End Engineer</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    <a href="/cmp/Legacy.com" target="_blank" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=ad8123b75af3fbed&amp;jcid=bdf1ab1e372a4e69')">
+        Legacy.com</a></span>
+</span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Legacy.com/reviews" title="Legacy.com reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Senior+Back+End+Engineer&amp;fromjk=ad8123b75af3fbed&amp;jcid=bdf1ab1e372a4e69');" target="_blank">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 54.0px;"><!-- --></span></span><span class="slNoUnderline">4 reviews</span></a>
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Calabasas, CA 91302</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<div>
+<span class="summary" itemprop="description">
+Extensive experience designing scalable, high availability, high performance server systems. Legacy.com, a top 40 website is reinventing its platform and...</span>
+</div>
+
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">30+ days ago</span> <span id="tt_set_7" class="tt_set">  -  <span id="savelink2_ad8123b75af3fbed" class="savelink2"><a id="sj_ad8123b75af3fbed" href="#" class="sl resultLink save-job-link" onclick="changeJobState('ad8123b75af3fbed', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_7" class="sl resultLink more-link " onclick="toggleMoreLinks('ad8123b75af3fbed'); return false;">more...</a></span><div id="editsaved2_ad8123b75af3fbed" class="edit_note_content" style="display:none;"></div><script>window['result_ad8123b75af3fbed'] = {"showSource": false, "source": "Legacy.com", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "30+ days ago","jobKey": "ad8123b75af3fbed", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 7, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_7" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('ad8123b75af3fbed'); return false;"></a><div id="more_7" class="more_actions"><ul><li><span class="mat">View all <a href="/q-Legacy-Com-l-Calabasas,-CA-jobs.html" rel="nofollow">Legacy.com jobs in Calabasas, CA</a> - <a href="/l-Calabasas,-CA-jobs.html">Calabasas jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Senior-Back-End-Developer-Salaries,-Calabasas-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=ad8123b75af3fbed&amp;from=serp-more-nofollow');" rel="&quot;nofollow&quot;">Senior Back End Developer salaries in Calabasas, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Legacy.com" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=ad8123b75af3fbed&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=bdf1ab1e372a4e69');">Legacy.com</a></span></li><li><span class="mat">Related forums: <a href="/forum/loc/Calabasas-California.html">Calabasas, California</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="  row  result" id="p_74393cdb501cc19c" data-jk="74393cdb501cc19c" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_74393cdb501cc19c" class="jobtitle">
+<a rel="nofollow" href="/company/zentek-infosoft-india-pvt-ltd/jobs/Adobe-Web-Analytic-Engineer-74393cdb501cc19c?fccid=a5a52febc985a917" target="_blank" onmousedown="return rclk(this,jobmap[8],0);" onclick="setRefineByCookie([]); return rclk(this,jobmap[8],true,0);" itemprop="title" title="Adobe Web Analytics Engineer" class="turnstileLink" data-tn-element="jobTitle">Adobe Web Analytics Engineer</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    zentek infosoft india pvt ltd</span>
+</span>
+
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Thousand Oaks, CA</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<div>
+<span class="summary" itemprop="description">
+URGENT POSITION # Adobe Web Analytics Engineer Job Title\* Adobe Web Analytics Engineer Location \* Thousand Oaks CA 91362 *Contract duration (in</span>
+</div>
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">9 hours ago</span> <span id="tt_set_8" class="tt_set">  -  <span id="savelink2_74393cdb501cc19c" class="savelink2"><a id="sj_74393cdb501cc19c" href="#" class="sl resultLink save-job-link" onclick="changeJobState('74393cdb501cc19c', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_8" class="sl resultLink more-link " onclick="toggleMoreLinks('74393cdb501cc19c'); return false;">more...</a></span><div id="editsaved2_74393cdb501cc19c" class="edit_note_content" style="display:none;"></div><script>window['result_74393cdb501cc19c'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "9 hours ago","jobKey": "74393cdb501cc19c", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 8, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_8" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('74393cdb501cc19c'); return false;"></a><div id="more_8" class="more_actions"><ul><li><span class="mat">View all <a href="/jobs?q=Zentek+Infosoft+India+Pvt+Ltd&amp;l=Thousand+Oaks,+CA&amp;nc=jasx" rel="nofollow">zentek infosoft india pvt ltd jobs in Thousand Oaks, CA</a> - <a href="/l-Thousand-Oaks,-CA-jobs.html">Thousand Oaks jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Web-Developer-Salaries,-Thousand-Oaks-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=74393cdb501cc19c&amp;from=serp-more-nofollow');" rel="&quot;nofollow&quot;">Web Developer salaries in Thousand Oaks, CA</a></span></li><li><span class="mat">Related forums: <a href="/forum/loc/Thousand-Oaks-California.html">Thousand Oaks, California</a> - <a href="/forum/cmp/Zentek-Infosoft-India-Pvt-Ltd-1.html">zentek infosoft india pvt ltd</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div class="lastRow  row  result" id="p_24361de8ec8d9625" data-jk="24361de8ec8d9625" itemscope="" itemtype="http://schema.org/JobPosting" data-tn-component="organicJob">
+<h2 id="jl_24361de8ec8d9625" class="jobtitle">
+<a rel="nofollow" href="/company/Securitas-Security-Services-USA,-Inc/jobs/Web-Developer-24361de8ec8d9625?fccid=39a084cc3985c736" target="_blank" onmousedown="return rclk(this,jobmap[9],0);" onclick="setRefineByCookie([]); return rclk(this,jobmap[9],true,0);" itemprop="title" title="Web Developer" class="turnstileLink" data-tn-element="jobTitle">Web Developer</a>
+</h2>
+<span class="company" itemprop="hiringOrganization" itemtype="http://schema.org/Organization">
+    <span itemprop="name">
+    <a href="/cmp/Securitas-Security-Services-Usa,-Inc" target="_blank" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=24361de8ec8d9625&amp;jcid=39a084cc3985c736')">
+        Securitas Security Services USA, Inc</a></span>
+</span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Securitas-Security-Services-Usa,-Inc/reviews" title="Securitas Security Services USA reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Web+Developer&amp;fromjk=24361de8ec8d9625&amp;jcid=39a084cc3985c736');" target="_blank">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 41.4px;"><!-- --></span></span><span class="slNoUnderline">1,565 reviews</span></a>
+ - <span itemprop="jobLocation" itemscope="" itemtype="http://schema.org/Place"><span class="location" itemprop="address" itemscope="" itemtype="http://schema.org/Postaladdress"><span itemprop="addressLocality">Westlake Village, CA</span></span></span>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+<td class="snip">
+<div>
+<span class="summary" itemprop="description">
+Web Developer Securitas Security Services USA, Inc. Westlake Village, CA Securitas USA knows Security . It is our only business. As the global leader</span>
+</div>
+
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class="date">30+ days ago</span> <span id="tt_set_9" class="tt_set">  -  <span id="savelink2_24361de8ec8d9625" class="savelink2"><a id="sj_24361de8ec8d9625" href="#" class="sl resultLink save-job-link" onclick="changeJobState('24361de8ec8d9625', 'save', 'linkbar', false);return false;" title="Save this job to my.indeed">save job</a></span> - <a href="#" id="tog_9" class="sl resultLink more-link " onclick="toggleMoreLinks('24361de8ec8d9625'); return false;">more...</a></span><div id="editsaved2_24361de8ec8d9625" class="edit_note_content" style="display:none;"></div><script>window['result_24361de8ec8d9625'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","relativeJobAge": "30+ days ago","jobKey": "24361de8ec8d9625", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": true, "resultNumber": 9, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": true, "currentPage" : "serp", "sponsored" : false,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": false, "showJobAge": true};</script></div></div>
+
+<div class="tab-container">
+<div id="tt_display_9" class="more-links-container result-tab" style="display:none;"><a class="close-link closeLink" title="Close" href="#" onclick="toggleMoreLinks('24361de8ec8d9625'); return false;"></a><div id="more_9" class="more_actions"><ul><li><span class="mat">View all <a href="/jobs?q=Securitas+Security+Services+Usa,+Inc&amp;l=Westlake+Village,+CA&amp;nc=jasx" rel="nofollow">Securitas Security Services USA, Inc jobs in Westlake Village, CA</a> - <a href="/l-Westlake-Village,-CA-jobs.html">Westlake Village jobs</a></span></li><li><span class="mat">Salary Search: <a href="/salaries/Web-Developer-Salaries,-Westlake-Village-CA" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=serp-more&amp;fromjk=24361de8ec8d9625&amp;from=serp-more');">Web Developer salaries in Westlake Village, CA</a></span></li><li><span class="mat">Learn more about working at <a href="/cmp/Securitas-Security-Services-Usa,-Inc" onmousedown="this.href = appendParamsOnce(this.href, '?fromjk=24361de8ec8d9625&amp;from=serp-more&amp;campaignid=serp-more&amp;jcid=39a084cc3985c736');">Securitas Security Services Usa, Inc</a></span></li><li><span class="mat"><a href="/cmp/Securitas-Security-Services-Usa,-Inc/faq" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=24361de8ec8d9625&amp;jcid=39a084cc3985c736');">Securitas Security Services Usa, Inc questions about work, benefits, interviews and hiring process:</a><ul><li><a href="/cmp/Securitas-Security-Services-Usa,-Inc/faq/does-having-a-college-degree-automatically-provide-an-increase-in-hourly-wage?quid=1ahip5fta5neibkl" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=24361de8ec8d9625&amp;jcid=39a084cc3985c736');">Does having a college degree automatically provide an increase in hourly...</a></li><li><a href="/cmp/Securitas-Security-Services-Usa,-Inc/faq/do-they-train-you-for-a-guard-card?quid=1aj6mrnf8b81qehd" onmousedown="this.href = appendParamsOnce(this.href, '?from=serp-more&amp;campaignid=serp-more&amp;fromjk=24361de8ec8d9625&amp;jcid=39a084cc3985c736');">Do they train you for a guard card</a></li></ul></span></li><li><span class="mat">Related forums: <a href="/forum/cmp/Securitas-Security-Services-Usa%2C-Inc.html">Securitas Security Services USA, Inc</a> - <a href="/forum/job/Web-Developer.html">Web Developer</a> - <a href="/forum/loc/Westlake-Village-California.html">Westlake Village, California</a></span></li></ul></div></div><div class="dya-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+<div class="sign-in-container result-tab"></div>
+<div class="notes-container result-tab"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div></div>
+<div class="uB7NlC8Gg1 X0oyMb5">
+<div class="row  result" id="pj_329a11d2d744479b" data-jk="329a11d2d744479b">
+<a target="_blank" id="sja4" data-tn-element="jobTitle" class="jobtitle turnstileLink" href="/pagead/clk?mo=r&amp;ad=-6NYlbfkN0AZm4mW_3qilwDyyWp4IOV48eqBGKI46ysGW1XMQlHSiwXyiZ1S7VvAUrMu8FYVQbld7GejDsdmJKfB7xI9KZ4Iukq1urPlY8j12s67Ltjyle6UTcQnPeuQ0P9fjlPiU7lT8Ez1IfP8njs-FS37ujF-fVw85HCMv-QkFGfMpT1zqhZH2eU-4dBo4gxCfR6PisWTWFnKq7D01qZE8BgsHTNMC8fVoD9y6xNSC7kAWYkLCM536El_RKyFoAFtsNl3irVyZqCoKQAZeVwv1gDYHU23KQwM8Tc0bYkLC22OKS3sVxHL9jZTTbN8ZtmAQC37p9biI2XeeTQkQhgVQB5VXZun1rWwFHsR2KyY19ZE1ILk2tKVh3qC7QZVS1_D2S0tSilO3Ct3B1rJaZyZIW7Q7P9ABKPP4_VHo3HLDKGv2ldmlMP9ViYenDJUp5OOcZBd_MnJh8oYzFq0Dhi5nAWlxshI7ncsjaTPFOM-ZZfq3XOoRPe3V2X0nVFekQ5j-nXyRmIZEOMnuDt3Qe36mSr20rxL6CQADXtwVQdtOhXeKxz5L4OYnUZTjhikM02w5bq1GjLTj4dVP4dUcQkKl7lnPk262i_luaAYQXzRkRCczpMzyOlst8LGMJFGgk_v6SiZ5hj1JnA0OoYKvA==&amp;p=4&amp;sk=&amp;fvj=0" title="Software Engineer - Web Development" rel="nofollow" onmousedown="sjomd('sja4'); clk('sja4');" onclick="setRefineByCookie([]); sjoc('sja4',0); convCtr('SJ', pingUrlsForGA)">Software Engineer - Web Development</a>
+<br>
+<div class="sjcl">
+<span class="company">
+    <a data-tn-element="companyName" class="turnstileLink" target="_blank" href="/cmp/Nas-Insurance" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=329a11d2d744479b&amp;jcid=64d32ec9dae6f3a1')">
+        NAS Insurance</a></span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Nas-Insurance/reviews" title="Nas Insurance reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Software+Engineer+-+Web+Development&amp;fromjk=329a11d2d744479b&amp;jcid=64d32ec9dae6f3a1');" target="_blank">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 40.8px;"><!-- --></span></span><span class="slNoUnderline">3 reviews</span></a>
+ - <span class="location">Los Angeles, CA</span>
+</div>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="snip">
+<span class="summary">Entire LAMP vertical (Linux, Apache, mySQL, <b>PHP</b>). The Software Engineer builds dynamic websites and web applications using a variety of development platforms....</span>
+</td></tr></tbody></table>
+<div class="sjCapt">
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class=" jasx_serpsjlabel_poststGray ">Sponsored by <b>The Muse</b></span> - <span id="tt_set_13" class="tt_set"><span id="savelink2_329a11d2d744479b" class="savelink2"><a id="sj_329a11d2d744479b" href="#" class="sl resultLink save-job-link" onclick="changeJobState('329a11d2d744479b', 'save', 'linkbar', true);return false;" title="Save this job to my.indeed">save job</a></span></span><div id="editsaved2_329a11d2d744479b" class="edit_note_content" style="display:none;"></div><script>window['sj_result_329a11d2d744479b'] = {"showSource": false, "source": "The Muse", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","jobKey": "329a11d2d744479b", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": false, "resultNumber": 13, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": false, "currentPage" : "serp", "sponsored" : true,"showSponsor" : true,"sponsorName" : "The Muse","reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": true, "showJobAge": true};</script></div></div>
+<div class="tab-container">
+<div class="sign-in-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+</div>
+</div>
+</div>
+<div class="row sjlast result" id="pj_89784394d40b6bf5" data-jk="89784394d40b6bf5">
+<a target="_blank" id="sja5" data-tn-element="jobTitle" class="jobtitle turnstileLink" href="/pagead/clk?mo=r&amp;ad=-6NYlbfkN0D43Oly6_0YW_Jcl50PgvEWrnblVqtupD_uJ5OgQCRjruAtNJ9Vg1_J9cwTR-z8nD0V1j-sSjuuhbwmQ0Vt7RZhwksV5cI4JeERxO1iRL76inMvIxNoDAkh_WbWBnMqtmO3tDjqRpEgHoyPvhNi72o12NwCpWnUIHY6Jp7epQB_y0FzQbmxR2fVoN7zUSjgNN6bbEE2o-Npy-eKBLniqcdwY6vp9XlILhoPjWnSkbZ_YWICVL3nBjQdIXsVeMMs9pAkXG8k3UQs9rbjrYfcYT-YzgD4AVUmC2rjxToC3xxF1o_ilovU5-3TEiBH_vwaJd_cOqh_HfYdqwwQB2xRpPImn5J2H5F9FNpwHdMsUagUp8ybcxzFUP7rBz55gIoqvtodGn_q33uBHAYWqDQ47rRd5OYuSxpvwXSADU3UF1fofb0Etc58qXVT36juU1uRshQ=&amp;p=5&amp;sk=&amp;fvj=1" title="Lead Software Engineer" rel="nofollow" onmousedown="sjomd('sja5'); clk('sja5');" onclick="setRefineByCookie([]); sjoc('sja5',0); convCtr('SJ', pingUrlsForGA)">Lead Software Engineer</a>
+<br>
+<div class="sjcl">
+<span class="company">
+    FreshRealm</span>
+
+ - <span class="location">Ventura, CA 93001</span>
+</div>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="snip">
+<span class="summary">------------------------------------------------------------ FreshRealm: Fresh food to the masses. FreshRealm is a 3 year old startup with substantial...</span>
+</td></tr></tbody></table>
+<div class="sjCapt">
+<div class="iaP">
+    <span class="iaLabel"> Easily apply</span>
+</div>
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class=" jasx_serpsjlabel_poststGray ">Sponsored</span> - <span id="tt_set_14" class="tt_set"><span id="savelink2_89784394d40b6bf5" class="savelink2"><a id="sj_89784394d40b6bf5" href="#" class="sl resultLink save-job-link" onclick="changeJobState('89784394d40b6bf5', 'save', 'linkbar', true);return false;" title="Save this job to my.indeed">save job</a></span></span><div id="editsaved2_89784394d40b6bf5" class="edit_note_content" style="display:none;"></div><script>window['sj_result_89784394d40b6bf5'] = {"showSource": false, "source": "Indeed", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","jobKey": "89784394d40b6bf5", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": false, "resultNumber": 14, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": false, "currentPage" : "serp", "sponsored" : true,"showSponsor" : true,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": true, "showJobAge": true};</script></div></div>
+<div class="tab-container">
+<div class="sign-in-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+</div>
+</div>
+</div>
+</div><style>
+.fixed_ja_link_x { color:#00C; float: right; font-size: 22px; margin-top: -8px; font-weight: bold;}
+.fixed_ja_link_x:hover { cursor:pointer;}
+.fixed_ja_link { color:#00C; cursor: pointer;}
+.fixed_ja_link:hover { text-decoration: underline;}
+.fixed_ja_background { background-color: #ebebeb;}
+</style>
+<div id="bjobalertswrapper">
+<div id="bjobalerts" class="open  jaui iOTjXoVfaW">
+<div class="jobalertlabel">
+<span id="bjobalertlabel" class="jobalerts_title"><span aria-label="alert icon" role="img" class="ico"></span>Get email updates for the latest <b>PHP jobs in Thousand Oaks, CA</b></span>
+</div>
+<div id="bjobalertform" class="jaform">
+<span id="bjobalerttext"></span><span id="bjobalertsending"></span>
+<div id="bjobalertmessage">
+<form action="/alert" method="POST" onsubmit="return addalertdelegate('PHP','Thousand+Oaks%2C+CA','b','',this.email.value,'1barg0ok21e8b2o3', this.verified.value, false, '', true, '661982', 'US', 'a8c68960498fac7d0196d999f332d6dd', this.recjobalert.checked, false);">
+<input type="hidden" name="a" value="add">
+<input type="hidden" name="q" value="PHP">
+<input type="hidden" name="l" value="Thousand Oaks, CA">
+<input type="hidden" name="radius" value="25">
+<input type="hidden" name="noscript" value="1">
+<input type="hidden" name="fr" value="b">
+<input type="hidden" name="tk" value="1barg0ok21e8b2o3">
+<input id="balertverified" type="hidden" name="verified" value="0">
+<input type="hidden" name="alertparams" value="">
+<label for="balertemail">My email:</label> <input type="text" id="balertemail" name="email" value="" size="25" maxlength="100">
+<span class="indeed-apply-button"><span class="indeed-apply-button-inner"><input id="balertsubmit" type="submit" value="Activate" class="indeed-apply-button-label"></span></span>
+<style type="text/css">
+    .indeed-apply-button { cursor : pointer !important; display : inline-block !important; padding : 1px !important; height : 31px !important; -moz-border-radius : 7px !important; border-radius : 7px !important; position : relative !important; text-decoration : none !important;background-color:#79788B; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#BCBBCD', endColorstr='#79788B', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#BCBBCD), to(#79788B)) !important;background-image: -webkit-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -moz-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -o-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: -ms-linear-gradient(top, #BCBBCD, #79788B) !important;background-image: linear-gradient(top, #BCBBCD, #79788B) !important;-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important;-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important;box-shadow: 0 1px 2px rgba(0,0,0,0.2) !important; } #indeed-ia-1329175190441-0:link, #indeed-ia-1329175190441-0:visited, #indeed-ia-1329175190441-0:hover, #indeed-ia-1329175190441-0:active { border : 0 !important; text-decoration : none !important; }
+
+    .indeed-apply-button:hover { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#6D99F6', endColorstr='#1B45A3', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#6D99F6), to(#1B45A3)) !important;background-image: -webkit-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -moz-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -o-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: -ms-linear-gradient(top, #6D99F6, #1B45A3) !important;background-image: linear-gradient(top, #6D99F6, #1B45A3) !important; }
+
+    .indeed-apply-state-clicked .indeed-apply-button,
+    .indeed-apply-button:active { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#B3BACA', endColorstr='#7C8493', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#B3BACA), to(#7C8493)) !important;background-image: -webkit-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -moz-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -o-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: -ms-linear-gradient(top, #B3BACA, #7C8493) !important;background-image: linear-gradient(top, #B3BACA, #7C8493) !important;-webkit-box-shadow: none !important;-moz-box-shadow: none !important;box-shadow: none !important; }
+
+    .indeed-apply-button-inner { display : inline-block !important; height : 31px !important; -moz-border-radius : 6px !important; border-radius : 6px !important; font : 18px 'Helvetica Neue','Helvetica',Arial !important; font-weight : 200 !important; text-decoration : none !important; text-shadow : 0px 1px #F1F1F4 !important;background-color:#D9D9E2;  color: #FF6703;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#FAFAFB', endColorstr='#D9D9E2', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#FAFAFB), to(#D9D9E2)) !important;background-image: -webkit-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -moz-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -o-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: -ms-linear-gradient(top, #FAFAFB, #D9D9E2) !important;background-image: linear-gradient(top, #FAFAFB, #D9D9E2) !important; }
+
+    .indeed-apply-button:active .indeed-apply-button-inner { filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#E8E8E9', endColorstr='#CBCBD3', GradientType=0);background-image: -webkit-gradient(linear, center top, center bottom, from(#E8E8E9), to(#CBCBD3)) !important;background-image: -webkit-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -moz-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -o-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: -ms-linear-gradient(top, #E8E8E9, #CBCBD3) !important;background-image: linear-gradient(top, #E8E8E9, #CBCBD3) !important; }
+
+    .indeed-apply-button-label {cursor: pointer; text-align : center !important; border:0; background: transparent;font-size: 12px; font-family: Arial, sans-serif; padding:3px 14px 2px 12px; margin:0; line-height: 26px; }
+
+    .indeed-apply-button:active .indeed-apply-button-label,
+    .indeed-apply-state-clicked .indeed-apply-button-label { -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0.75)" !important;filter: alpha(opacity=75) !important;-moz-opacity: 0.75 !important;-khtml-opacity: 0.75 !important;opacity: 0.75 !important; }
+
+    #talertemail, #balertemail {  height: 27px; line-height: 24px; padding-left: 6px; padding-right: 6px; font-size: 14px; font-family: Arial, sans-serif; }
+</style><label for="brecjobalert" id="brecjobalertlabel">
+<input id="brecjobalert" name="recjobalert" type="checkbox" checked="">
+<span>Also get an email with jobs recommended just for me</span>
+</label>
+</form>
+<span class="caption">
+You can cancel email alerts at any time.</span>
+</div>
+</div>
+</div>
+</div><script type="text/javascript">
+function ptk(st,p) {
+document.cookie = 'PTK="tk=&type=jobsearch&subtype=' + st + (p ? '&' + p : '')
+ + (st == 'pagination' ? '&fp=1' : '')
++'"; path=/';
+}
+</script>
+<script type="text/javascript">
+function pclk(event) {
+var evt = event || window.event;
+var target = evt.target || evt.srcElement;
+var el = target.nodeType == 1 ? target : target.parentNode;
+var tag = el.tagName.toLowerCase();
+if (tag == 'span' || tag == 'a') {
+ptk('pagination');
+}
+return true;
+}
+</script>
+<div class="pagination" onmousedown="pclk(event);">Results&nbsp;Page:&nbsp;&nbsp;<b>1</b>&nbsp;&nbsp;<a href="/jobs?q=PHP&amp;l=Thousand+Oaks%2C+CA&amp;start=10&amp;pp=AAoAAAAAAAAAAAAAAAEFNs16AQABhSLrgxjhKAB7cOk96NGi7vs_y3Q"><span class="pn">2</span></a>&nbsp;&nbsp;<a href="/jobs?q=PHP&amp;l=Thousand+Oaks%2C+CA&amp;start=20&amp;pp=ABQAAAAAAAAAAAAAAAEFNs16AQEBCQCzAVAXfsZAmVnric7_YON31hDKYL7fZM1EOgVErTQfQQ"><span class="pn">3</span></a>&nbsp;&nbsp;<a href="/jobs?q=PHP&amp;l=Thousand+Oaks%2C+CA&amp;start=30&amp;pp=AB4AAAAAAAAAAAAAAAEFNs16AQEBCgH5f1GkBxbiLsFvYIXJzHXPF_3vhJsgep0FeXrdN4vjK9VVm67p6zk-86A"><span class="pn">4</span></a>&nbsp;&nbsp;<a href="/jobs?q=PHP&amp;l=Thousand+Oaks%2C+CA&amp;start=40&amp;pp=ACgAAAAAAAAAAAAAAAEFNs16AQEBCgynnmplE3imBUXdI_fcX7EwvYPBf3WwfEuW-v52vaimv5FsWgR2Bh1hh-fNL7X1Njgl-qdWOyf0"><span class="pn">5</span></a>&nbsp;&nbsp; <a href="/jobs?q=PHP&amp;l=Thousand+Oaks%2C+CA&amp;start=10&amp;pp=AAoAAAAAAAAAAAAAAAEFNs16AQABhSLrgxjhKAB7cOk96NGi7vs_y3Q"><span class="pn"><span class="np">Next&nbsp;»</span></span></a></div>
+<div class="related_searches">
+<div class="related_searches_list">
+<b>People also searched: </b><a href="/q-Java-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">java</a>&nbsp;- <a href="/q-Web-Developer-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">web developer</a>&nbsp;- <a href="/q-PHP-Developer-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">php developer</a>&nbsp;- <a href="/q-Python-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">python</a>&nbsp;- <a href="/q-Javascript-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">javascript</a>&nbsp;- <a href="/jobs?q=C%23&amp;l=Thousand+Oaks,+CA?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">c#</a>&nbsp;- <a href="/q-Software-Engineer-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">software engineer</a>&nbsp;- <a href="/q-Ruby-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">ruby</a>&nbsp;- <a href="/q-Wordpress-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">wordpress</a>&nbsp;- <a href="/q-SQL-l-Thousand-Oaks,-CA-jobs.html?from=relatedQueries&amp;rqf=1&amp;parentQnorm=PHP">sql</a></div>
+<div class="related_searches_list">
+<b class="related_searches_title">Related Forums:</b>
+
+<a href="/forum/job/Web-Developer.html" onclick="logRSC('rfsclk', 'Web Developer', '1barg0ok21e8b2o3')">Web Developer</a>
+ - <a href="/forum/job/Software-Engineer.html" onclick="logRSC('rfsclk', 'Software Engineer', '1barg0ok21e8b2o3')">Software Engineer</a>
+
+- <a href="/forum/loc/Thousand-Oaks-California.html" onclick="logRSC('rfsclk', 'Thousand Oaks, California', '1barg0ok21e8b2o3')">Thousand Oaks, California</a>
+</div>
+<div class="related_searches_list">
+<b class="related_searches_title">
+Salaries in Thousand Oaks, CA:</b>
+
+<a href="/salaries/Web-Developer-Salaries,-Thousand%20Oaks,%20CA?from=serp" onclick="logRSC('rssclk', 'Web Developer', '1barg0ok21e8b2o3')">Web Developer salary</a>
+ - <a href="/salaries/Software-Engineer-Salaries,-Thousand%20Oaks,%20CA?from=serp" onclick="logRSC('rssclk', 'Software Engineer', '1barg0ok21e8b2o3')">Software Engineer salary</a>
+</div>
+</div> </td>

@@ -1,0 +1,91 @@
+﻿----程序开始运行----
+>>>任务 0 启动
+>>>任务 0 终止
+----程序开始运行 111----
+totalCountText : 233
+jobtitle ====== Senior Software Engineer (PHP Developer) ===jobtitleHref=== https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CFwdyJ9oqS5yKqIO1d8DskTchyTS6013AGKAPZvJWfaWJDqrmZSVY6cvNGB2UTYHgP4PqYc2-5L5lwYOHyMZ8GpJdSGxEicBuJtcHbi07gVmDU6rcsb4xcFDsJ1ZLRp8DuZ3QoW9mnPIRuALZALyLp5tcY-Dp7AYCD4z3zqjtEuKA9da_V51KUOFcY-oK-8iXAPWjZLci06NLVY3oHn0hN-BWs6OnxJ-MpIgjMyXbt88vcMsIj5S0AW1q35wsKewXh2Is4eiXxy2bANyx8TyR_WNKDkpihONbkad1NUa-8Y9VXkT1gDynDvMYKn48EEgvk01LefikYj63O9wTfXDZ1cXNo2Fuz7XbsHOYezUgbSW3cROIBXlTMSJrQ5z2b5LIEK5B-6O7wPG_FjTv9FJ7-911Leh7wW7v8x20WgwQDjHTMlVMOksKPOrN9VEo_ZR3ms_JAQOst6dx47b8WC0_bG8BLjmHvEwX1uuR0TFdvHSfOh2323t3Ld7KHI4W3n3FDjWfB_qOpXSkTv9PWmE-QEO_PfFTSJxYPXhlRg6YMq7kX35mVXhLsOhXSECcBr53sHaiqIyBu000Ygv22NpPR9ONGA0K36RWU1CDj6u6dpS5QS2ViENuc48cSDZS3iYxX7K0WjUU4JQ==&p=1&sk=&fvj=0
+companyName ====== Golden Hippo Media
+companyNameHref ====== https://www.indeed.com/cmp/Golden-Hippo-Media
+link_reviewStarsText ====== 2 reviews
+link_reviewStarsHref ====== https://www.indeed.com/cmp/Golden-Hippo-Media/reviews
+locationText ====== Calabasas, CA
+describeText ====== Demonstrated 5+ Year experience with building software using PHP and/or Python. Golden Hippo Media is seeking a mid-senior level software developer with Object...
+=======================================================================
+jobtitle ====== Full Stack PHP Web Developer - Full-Time ===jobtitleHref=== https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BIT9t7AkeIggs0_-WFWCag0teIB_Guo3M1CyMaJg6ZrI_91eHW4KyJgMN3iGeXEmb2TLedJhBrNjjTm7ZbKQbtXQi9jjkbDV1a6YD0cOSVwbuzr38N34HH6mL4WzEdYli7Ehy1adZ3vrpo1SINI9q79Jhu5z71wZVecba1eF2KabMkynRXjT0SY5th3uXcfpZkRdMgB-jXmiqxV7MLth4nyglpEujxogusgtNhlpI_JYswNDSMhC1nE9XHaUl9cUouHfrs2f3RZhu7sFC1K3auo6M7Wgt1cxFLJ0EMpmwbQljB70UraDvZvM44l5vC1hlR59Eymx84IsoQ7jDsUNSfgrC5Gf9IC_pVcNFZ-Mw6r03p65WNkgbcj8vJzinU3i7K0ZIrxh2NzslhENgvTbcZOq4FYOtVf6IU5rytXy1drL3AKVLtC-HttEcEn7CVx8cEtCUQr-EiyNRAkB-TaoGO&p=2&sk=&fvj=1
+companyNameHref ====== https://www.indeed.com
+locationText ====== California
+describeText ====== CSS, HTML, Javascript, Jquery, PHP,. We are direct response e-commerce marketers of bone health supplements that radically change lives....
+=======================================================================
+jobtitle ====== Full Stack Developer/Software Architect for Educational Star... ===jobtitleHref=== https://www.indeed.com/company/Tried-&-True-Tutoring/jobs/Full-Stack-Developer-Software-Architect-Educational-Start-5043f971f19e6549?fccid=4ca161b0b38fe72f
+companyName ====== Tried & True Tutoring
+companyNameHref ====== https://www.indeed.com/cmp/Tried-&-True-Tutoring
+link_reviewStarsText ====== 7 reviews
+link_reviewStarsHref ====== https://www.indeed.com/cmp/Tried-&-True-Tutoring/reviews
+locationText ====== Calabasas, CA
+describeText ====== Knowledge of PHP and/or Ruby is a must. Tried & True Tutoring is a tutoring company based in Calabasas, CA, with branches in LA, SD, SF, Seattle and Phoenix....
+=======================================================================
+jobtitle ====== Full Stack Developer ===jobtitleHref=== https://www.indeed.com/company/Feedonomics/jobs/Full-Stack-Developer-5f3a73c2b1f32814?fccid=a7e70b01419f6030
+companyNameHref ====== https://www.indeed.com
+locationText ====== Woodland Hills, CA
+describeText ====== PHP. If you are a Senior Full Stack Developer looking to make your mark, please read on!...
+=======================================================================
+jobtitle ====== PHP Backend Developer ===jobtitleHref=== https://www.indeed.com/rc/clk?cmp=Whipclip%2FTVShow-time&ti=PHP+Backend+Developer&jk=57659cbdb663e793&fccid=46e16ea6b5e46a72
+companyNameHref ====== https://www.indeed.com
+locationText ====== Santa Monica, CA 90405
+describeText ====== Solid programming skills in PHP (Symfony a bonus!). Whipclip is looking to hire a backend PHP developer to work on the backend stack for our mobile app "TVShow...
+=======================================================================
+jobtitle ====== Senior DevOps Engineer ===jobtitleHref=== https://www.indeed.com/rc/clk?jk=cbccdbe45d8074f8&fccid=5a65724ac3880f3d
+companyName ====== Beachbody
+companyNameHref ====== https://www.indeed.com/cmp/Beachbody
+link_reviewStarsText ====== 105 reviews
+link_reviewStarsHref ====== https://www.indeed.com/cmp/Beachbody/reviews
+locationText ====== Westlake Village, CA
+describeText ====== You will be heavily involved with CentOS 6/7 Linux Servers running Apache/Nginx web servers written in PHP, Ruby, NodeJS utilizing services such as...
+=======================================================================
+jobtitle ====== Senior Web Developer ===jobtitleHref=== https://www.indeed.com/company/Computer-Graphics-Master-Academy/jobs/Senior-Web-Developer-e9e867c6d07fa74b?fccid=740e99d5b6dd9915
+companyNameHref ====== https://www.indeed.com
+locationText ====== Van Nuys, CA 91401
+describeText ====== PHP:. Knowledge of PHP, HTML/5, CSS/3, JavaScript and MySQL. Install, configure and maintain Amazon EC2 web servers running LEMP (Linux, Nginx, MySQL, PHP)....
+=======================================================================
+jobtitle ====== Senior Back End Engineer ===jobtitleHref=== https://www.indeed.com/rc/clk?jk=ad8123b75af3fbed&fccid=bdf1ab1e372a4e69
+companyName ====== Legacy.com
+companyNameHref ====== https://www.indeed.com/cmp/Legacy.com
+link_reviewStarsText ====== 4 reviews
+link_reviewStarsHref ====== https://www.indeed.com/cmp/Legacy.com/reviews
+locationText ====== Calabasas, CA 91302
+describeText ====== Extensive experience designing scalable, high availability, high performance server systems. Legacy.com, a top 40 website is reinventing its platform and...
+=======================================================================
+jobtitle ====== Web designer ===jobtitleHref=== https://www.indeed.com/rc/clk?jk=1d5592fbee8a19ce&fccid=6fe57b90c542683b
+companyNameHref ====== https://www.indeed.com
+locationText ====== Calabasas, CA 91302
+describeText ====== We are seeking a talented Web Designer to create amazing user experiences. The ideal candidate should have an eye for clean and artful design, possess
+=======================================================================
+jobtitle ====== PHP Developer ===jobtitleHref=== https://www.indeed.com/rc/clk?jk=e1b8ab07ad1d68ee&fccid=50cfbaf0c88d9383
+companyNameHref ====== https://www.indeed.com
+locationText ====== Santa Monica, CA
+describeText ====== 3+ years of PHP development experience. We are now seeking a PHP Developer in our Santa Monica office. Collaborate with other developers and teams to plan,...
+=======================================================================
+jobtitle ====== Senior Software Engineer (PHP Developer) ===jobtitleHref=== https://www.indeed.com/rc/clk?jk=66b50106a331dc8f&fccid=d41db3347e0de1ae
+companyName ====== Golden Hippo Media
+companyNameHref ====== https://www.indeed.com/cmp/Golden-Hippo-Media
+link_reviewStarsText ====== 2 reviews
+link_reviewStarsHref ====== https://www.indeed.com/cmp/Golden-Hippo-Media/reviews
+locationText ====== Calabasas, CA
+describeText ====== Demonstrated 5+ Year experience with building software using PHP and/or Python. Golden Hippo Media is seeking a mid-senior level software developer with Object...
+=======================================================================
+jobtitle ====== Web Developer ===jobtitleHref=== https://www.indeed.com/company/Securitas-Security-Services-USA,-Inc/jobs/Web-Developer-24361de8ec8d9625?fccid=39a084cc3985c736
+companyName ====== Securitas Security Services USA, Inc
+companyNameHref ====== https://www.indeed.com/cmp/Securitas-Security-Services-Usa,-Inc
+link_reviewStarsText ====== 1,592 reviews
+link_reviewStarsHref ====== https://www.indeed.com/cmp/Securitas-Security-Services-Usa,-Inc/reviews
+locationText ====== Westlake Village, CA
+describeText ====== Web Developer Securitas Security Services USA, Inc. Westlake Village, CA Securitas USA knows Security . It is our only business. As the global leader
+=======================================================================
+jobtitle ====== Senior Full Stack Developer ===jobtitleHref=== https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dlj_mRD_LyQ8KKWuRudeiR9RIQIp7D-AgmMWKeDe1oCJc3LMJRsfq5Hcwg7BF-qNBCShTefQFzl8Lp2t5DpgNy5TD2Pmq_0o_C-6QJuMEfnpPBqn2YNMJZk42s4oEHSybjlttzWXbXfYM72XsBcPBVdGzZJZMFWBD0_uz_fFskzmSrvtP9rTfUTIZ3VJ2DUKPgsDEUTjOGWhqeDBETKrvz58cOBTViThagcmD3lxCmg4w0rq80ieWAwhGZKUHFmd8s2ZjQZCtzxiQSA7JI3p0jhFEaM6ZweRPWo0qrP6rSkdB5tsFFQ1NFyEwt1-x-BXHjhEGbqXKk3DS9CjOqgSJMn2PC_nQnybUpiaJf7ohRKGmYqpQKMeqOyXcoh-7p4ZloGcun04I05h64D8kyQxKpOo1w6_-diH5xdiklYT--hmt71cgpLAxvb08pv1DpvYTRkyNy8J12XA==&p=4&sk=&fvj=1
+companyNameHref ====== https://www.indeed.com
+locationText ====== Los Angeles, CA
+describeText ====== Mysql, php, js, html:. 2+ years of experience with mysql, php, js, html, css. Collaborate to create solutions to fulfill clients requests within the boundaries...
+=======================================================================
+----程序开始终止 222----
+>>>true
+----程序结束运行----，程序运行时间【1069毫秒】

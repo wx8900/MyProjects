@@ -1,0 +1,111 @@
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:tx="http://www.springframework.org/schema/tx"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd">
+   
+   <tx:annotation-driven transaction-manager="transactionManager"/>
+
+	<bean id="transactionManager"
+	    class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+	    <property name="dataSource" ref="dataSource"/>
+	</bean>
+	
+	<!-- 声明式容器事务管理 ,transaction-manager指定事务管理器为transactionManager -->
+	<tx:advice id="txAdvice" transaction-manager="transactionManager">
+	<tx:attributes>
+	<tx:method name="save*" propagation="REQUIRED" />
+	<tx:method name="get*" propagation="REQUIRED" />
+	<tx:method name="*" read-only="true" />
+	</tx:attributes>
+	</tx:advice>
+	
+	<!-- Declaration of HibernateInterceptor -->   
+    <!-- <bean id="hibernateInterceptor" class="org.springframework.orm.hibernate3.HibernateInterceptor">   
+         <property name="sessionFactory">   
+           <ref bean="sessionFactory"/>   
+         </property>   
+    </bean>        
+    Manager template    
+    <bean id="txProxyTemplate" abstract="true"   
+        class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">   
+        <property name="transactionManager" ref="transactionManager"/>   
+        <property name="transactionAttributes">   
+            <props>   
+                <prop key="save*">PROPAGATION_REQUIRED</prop>   
+                <prop key="remove*">PROPAGATION_REQUIRED</prop>   
+                <prop key="update*">PROPAGATION_REQUIRED</prop>                    
+                <prop key="create*">PROPAGATION_REQUIRED</prop>       
+                <prop key="*">PROPAGATION_REQUIRED,readOnly</prop>   
+            </props>   
+        </property>   
+        <property name="preInterceptors">   
+            <list>   
+             <ref bean="hibernateInterceptor"/>   
+            </list>   
+        </property>                            
+    </bean>   
+    Sample Manager that encapsulates business logic   
+    <bean id="positionsDao" parent="txProxyTemplate">   
+        <property name="target">   
+            <bean class="priv.cai.jobapply.springmvc.dao.PositionsDaoImpl" autowire="byName"/>   
+        </property>   
+    </bean> -->  
+   
+   <bean id="dataSource"
+    class="org.apache.tomcat.dbcp.dbcp.BasicDataSource">
+      <property name="driverClassName" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
+      <property name="url" value="jdbc:sqlserver://localhost:1433;databaseName=JobApply;integratedSecurity=true;" />
+      <property name="username" value="" />
+      <property name="password" value="" />
+   </bean>
+   
+   <bean id="sessionFactory"
+    class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+      <property name="dataSource" ref="dataSource" />
+      <property name="packagesToScan" value="priv.cai.jobapply.springmvc.model" />
+      <property name="hibernateProperties">
+         <props>
+            <prop key="hibernate.dialect">org.hibernate.dialect.SQLServerDialect</prop>
+            <prop key="hibernate.connection.autocommit">true</prop>
+            <prop key="hibernate.show_sql">true</prop>
+         </props>
+      </property>
+   </bean>
+ 
+	<bean id="positionsDao" class="priv.cai.jobapply.springmvc.dao.PositionsDaoImpl"/>
+	<!-- 调度器 -->
+	<bean id="doJob"
+		class="org.springframework.scheduling.quartz.JobDetailFactoryBean">
+		<property name="durability" value="true"></property>
+		<property name="jobClass" value="priv.cai.jobapply.quartz.TaskJob" />
+		<property name="jobDataAsMap">
+			<map>
+				<entry key="positionsDao" value-ref="positionsDao"></entry>
+				<entry key="sessionFactory" value-ref="sessionFactory"></entry>
+			</map>
+		</property>
+	</bean>
+
+	<!-- 触发器 -->
+	<bean id="cronTriggerPunch"
+		class="org.springframework.scheduling.quartz.CronTriggerFactoryBean">
+		<property name="jobDetail" ref="doJob" />
+		<!-- 5 minutes -->
+		<property name="cronExpression" value="0/30 * * * * ?" />
+		<!-- Fire at 10:15am every Monday, Tuesday, Wednesday, Thursday and Friday -->
+		<!--<property name="cronExpression" value="0 15 10 ? * MON-FRI" />-->
+	</bean>
+
+	<!-- 配置调度工厂 -->
+	<bean id="startQuertz" autowire="no"
+		class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+		<property name="triggers">
+			<list>
+				<ref bean="cronTriggerPunch" />
+			</list>
+		</property>
+	</bean>
+
+</beans>

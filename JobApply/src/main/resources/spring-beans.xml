@@ -1,0 +1,38 @@
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   
+   <!-- Declaration of HibernateInterceptor -->   
+    <bean id="hibernateInterceptor" class="org.springframework.orm.hibernate5.support.OpenSessionInterceptor">   
+         <property name="sessionFactory">   
+           <ref bean="sessionFactory"/>   
+         </property>   
+    </bean>        
+    <!-- Manager template  -->   
+    <bean id="txProxyTemplate" abstract="true"   
+        class="org.springframework.transaction.interceptor.TransactionProxyFactoryBean">   
+        <property name="transactionManager" ref="transactionManager"/>   
+        <property name="transactionAttributes">   
+            <props>   
+                <prop key="save*">PROPAGATION_REQUIRED</prop>   
+                <prop key="remove*">PROPAGATION_REQUIRED</prop>   
+                <prop key="update*">PROPAGATION_REQUIRED</prop>                    
+                <prop key="create*">PROPAGATION_REQUIRED</prop>       
+                <prop key="*">PROPAGATION_REQUIRED,readOnly</prop>   
+            </props>   
+        </property>   
+        <property name="preInterceptors">   
+            <list>   
+             <ref bean="hibernateInterceptor"/>   
+            </list>   
+        </property>                            
+    </bean>   
+    <!-- Sample Manager that encapsulates business logic -->   
+    <bean id="userManager" parent="txProxyTemplate">   
+        <property name="target">   
+            <bean class="priv.cai.jobapply.springmvc.controller.RetrieveDataController" autowire="byName"/>   
+        </property>   
+    </bean> 
+
+</beans>

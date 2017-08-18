@@ -1,0 +1,24 @@
+<div class="row  result" id="pj_66b50106a331dc8f" data-jk="66b50106a331dc8f">
+<a target="_blank" id="sja1" data-tn-element="jobTitle" class="jobtitle turnstileLink" href="/pagead/clk?mo=r&amp;ad=-6NYlbfkN0CFwdyJ9oqS5yKqIO1d8DskTchyTS6013AGKAPZvJWfaWJDqrmZSVY6cvNGB2UTYHgP4PqYc2-5L5lwYOHyMZ8GpJdSGxEicBuJtcHbi07gVmDU6rcsb4xcFDsJ1ZLRp8DuZ3QoW9mnPJBWxklPZUBkquwRFON4XCmswHDTlleZ0e8NzRIldpRovko1VPsVezR4mAGkkxDbWPfO21MNnyKbUmxs76AHaVLOJPP_qhRA_QlZfV0b9xiCUBPAFUXgvvb2ZCTp5ccBe5SDSlU1NBGgcgTsLagCyATyfF1F5zQ2q35MP4Z9M7Y9L3rqnJdoHF2eaAU-qEzEeL6pmVHxGXGwmPDFKYiJDfr0w3Lmpat_X0AlfgJCQAqLCgwlKX7CbiefsC09dREANP2cYbPTPquCqqrIIelbx5k2lBjgn2yky2Iampq0XvhGFbRNtAfR4R2sVG9JA54yIY4wSsy_MzOSaqBmHFmvVXh3kLTd6XHaBcIQP_P4kc6b4IjWWnU-NsBssG6fs807jXwQiGG5uPaMpWloZvNb_u4XLekPWb3-2A2k9Exm8VhS3DS2fxse27yGDXeY5Ln_Bc6_GVYon8rI9ogzk8wkzHd0Ntv3EVxX4M4iT-4zKBFSoarBmG8ZypSxZC1lhw8Thg==&amp;p=1&amp;sk=&amp;fvj=0" title="Senior Software Engineer (PHP Developer)" rel="nofollow" onmousedown="sjomd('sja1'); clk('sja1');" onclick="setRefineByCookie([]); sjoc('sja1',0); convCtr('SJ', pingUrlsForGA)">Senior Software Engineer (<b>PHP</b> Developer)</a>
+<br>
+<div class="sjcl">
+<span class="company">
+    <a data-tn-element="companyName" class="turnstileLink" target="_blank" href="/cmp/Golden-Hippo-Media" onmousedown="this.href = appendParamsOnce(this.href, 'from=SERP&amp;campaignid=serp-linkcompanyname&amp;fromjk=66b50106a331dc8f&amp;jcid=5f16ce4c0366b238')" rel="nofollow">
+        Golden Hippo Media</a></span>
+
+ - <a data-tn-element="reviewStars" data-tn-variant="cmplinktst2" class="turnstileLink slNoUnderline " href="/cmp/Golden-Hippo-Media/reviews" title="Golden Hippo Media reviews" onmousedown="this.href = appendParamsOnce(this.href, '?campaignid=cmplinktst2&amp;from=SERP&amp;jt=Senior+Software+Engineer+%28PHP+Developer%29&amp;fromjk=66b50106a331dc8f&amp;jcid=5f16ce4c0366b238');" target="_blank" rel="nofollow">
+    <span class="ratings" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;width: 60px;"><span class="rating" style="height: 11px; line-height: 11px; background-image: url(/images/cmp/star_2_sm@2x.png); background-size: 12px 22px;background-position: 0 11px; width: 18.0px;"><!-- --></span></span><span class="slNoUnderline">2 reviews</span></a>
+ - <span class="location">Calabasas, CA</span>
+</div>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="snip">
+<span class="summary">Demonstrated 5+ Year experience with building software using <b>PHP</b> and/or Python. Golden Hippo Media is seeking a mid-senior level software developer with Object...</span>
+</td></tr></tbody></table>
+<div class="sjCapt">
+<div class="result-link-bar-container">
+<div class="result-link-bar"><span class=" jasx_serpsjlabel_poststGray ">Sponsored</span> - <span id="tt_set_10" class="tt_set"><span id="savelink2_66b50106a331dc8f" class="savelink2"><a id="sj_66b50106a331dc8f" href="#" class="sl resultLink save-job-link" onclick="changeJobState('66b50106a331dc8f', 'save', 'linkbar', true);return false;" title="Save this job to my.indeed">save job</a></span></span><div id="editsaved2_66b50106a331dc8f" class="edit_note_content" style="display:none;"></div><script>window['sj_result_66b50106a331dc8f'] = {"showSource": false, "source": "Golden Hippo Media", "loggedIn": false, "showMyJobsLinks": true,"undoAction": "unsave","jobKey": "66b50106a331dc8f", "myIndeedAvailable": true, "tellAFriendEnabled": false, "showMoreActionsLink": false, "resultNumber": 10, "jobStateChangedToSaved": false, "searchState": "q=PHP&amp;l=Thousand+Oaks%2C+CA", "basicPermaLink": "https://www.indeed.com", "saveJobFailed": false, "removeJobFailed": false, "requestPending": false, "notesEnabled": false, "currentPage" : "serp", "sponsored" : true,"showSponsor" : true,"reportJobButtonEnabled": false, "showMyJobsHired": false, "showSaveForSponsored": true, "showJobAge": true};</script></div></div>
+<div class="tab-container">
+<div class="sign-in-container result-tab"></div>
+<div class="tellafriend-container result-tab email_job_content"></div>
+</div>
+</div>
+</div>
