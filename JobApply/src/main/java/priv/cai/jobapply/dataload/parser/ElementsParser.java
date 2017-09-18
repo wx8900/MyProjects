@@ -102,9 +102,9 @@ public class ElementsParser {
 							if (describeText != null && !StringUtils.isEmpty(describeText)) {
 								int leng = describeText.length();
 								if (leng > 0 && leng < 300) {
-									po.setDescribe(describeText);
+									po.setDescription(describeText);
 								} else if (leng >= 300) {{
-									po.setDescribe(describeText.substring(0, 298));
+									po.setDescription(describeText.substring(0, 298));
 								}
 							}
 						}

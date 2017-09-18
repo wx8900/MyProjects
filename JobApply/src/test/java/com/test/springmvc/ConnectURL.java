@@ -10,7 +10,7 @@ public class ConnectURL {
 	public static void main(String[] args) {
 		
 		// Create a variable for the connection string.
-		String connectionUrl = "jdbc:sqlserver://localhost:1433;" +
+		String connectionUrl = "jdbc:sqlserver://mydb.cstgtj9tiqq3.us-west-1.rds.amazonaws.com:1433;" +
 			"databaseName=JobApply;integratedSecurity=true;";
 
 		// Declare the JDBC objects.
@@ -21,7 +21,7 @@ public class ConnectURL {
         	try {
         		// Establish the connection.
         		Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
-            		con = DriverManager.getConnection(connectionUrl);
+            		con = DriverManager.getConnection(connectionUrl, "myUser", "test1234");
             
             		// Create and execute an SQL statement that returns some data.
             		String SQL = "SELECT TOP 10 * FROM Positions";

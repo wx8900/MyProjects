@@ -7,7 +7,7 @@
 	http://www.springframework.org/schema/jdbc/spring-jdbc-3.2.xsd">
 
   <!-- connect to database -->
-  <bean id="dataSource"
+  <!-- <bean id="dataSource"
 	class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 	<property name="driverClassName" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
 	<property name="url" value="jdbc:sqlserver://localhost:1433;databaseName=sendresume;integratedSecurity=true;" />
@@ -18,10 +18,30 @@
   <bean id="transactionManager"
 	class="org.springframework.batch.support.transaction.ResourcelessTransactionManager" />
 
-  <!-- create job-meta tables automatically -->
+  create job-meta tables automatically
   <jdbc:initialize-database data-source="dataSource">
 	<jdbc:script location="org/springframework/batch/core/schema-drop-sqlserver.sql" />
 	<jdbc:script location="org/springframework/batch/core/schema-sqlserver.sql" />
+  </jdbc:initialize-database> -->
+  
+  <!-- Connect to MySQL -->
+  <!-- connect to database -->
+  <bean id="dataSource"
+	class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+	<property name="driverClassName" value="com.mysql.jdbc.Driver" />
+	<property name="url" value="jdbc:mysql://localhost:3306/JobApply?useSSL=false;" />
+	<property name="username" value="root" />
+	<property name="password" value="123456" />
+  </bean>
+
+  <bean id="transactionManager"
+	class="org.springframework.batch.support.transaction.ResourcelessTransactionManager" />
+
+  <!-- create job-meta tables automatically -->
+  <jdbc:initialize-database data-source="dataSource">
+	<jdbc:script location="org/springframework/batch/core/schema-drop-mysql.sql" />
+	<jdbc:script location="org/springframework/batch/core/schema-mysql.sql" />
   </jdbc:initialize-database>
+  
 
 </beans>

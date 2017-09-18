@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
   
   <properties>
-		<java-version>1.7</java-version>
+		<java-version>1.8</java-version>
   		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<org.springframework-version>4.3.2.RELEASE</org.springframework-version>
 		<spring.batch.version>3.0.7.RELEASE</spring.batch.version>
@@ -201,18 +201,18 @@
 		</dependency>
 		
         <!-- JSP API -->
-        <dependency>
-            <groupId>javax.servlet</groupId>
-            <artifactId>javax.servlet-api</artifactId>
-            <version>3.1.0</version>
-            <scope>provided</scope>
-        </dependency>
 		<dependency>
+		    <groupId>javax.servlet</groupId>
+		    <artifactId>javax.servlet-api</artifactId>
+		    <version>3.1.0</version>
+		    <scope>provided</scope>
+		</dependency>
+		<!-- <dependency>
 			<groupId>javax.servlet.jsp</groupId>
 			<artifactId>jsp-api</artifactId>
 			<version>2.2</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency> -->
         <dependency>  
            <groupId>jstl</groupId>  
            <artifactId>jstl</artifactId>  
@@ -230,7 +230,11 @@
 		   <artifactId>commons-lang3</artifactId>
 		   <version>3.4</version>
 	   </dependency>
-       
+       <dependency>
+		   <groupId>commons-logging</groupId>
+		   <artifactId>commons-logging</artifactId>
+		   <version>1.2</version>
+	   </dependency>
        <dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
@@ -271,6 +275,14 @@
 		    <version>1.2.17</version>
 		</dependency>
 		<!-- add 05262017 end -->
+		
+		<!-- add 09182017 start -->
+		<dependency>
+		    <groupId>commons-digester</groupId>
+		    <artifactId>commons-digester</artifactId>
+		    <version>2.1</version>
+		</dependency>
+		<!-- add 09182017 end -->
 	    
     </dependencies>
  
@@ -301,14 +313,14 @@
             <plugin>
                 <groupId>org.apache.tomcat.maven</groupId>
                 <artifactId>tomcat7-maven-plugin</artifactId>
-                <version>2.2</version>
+                <version>2.1</version>
                 <!-- Config: contextPath and Port (Default: /JobApply : 8080) -->
                 <!--
                 <configuration>
-                    <path>/</path>
-                    <port>8899</port>
+                    <path>/JobApply</path>
+                    <port>8080</port>
                 </configuration>
-                -->  
+                --> 
             </plugin>
         </plugins>
     </build>   

@@ -100,7 +100,7 @@ public class PositionsPageController {
 				searchParameter = searchParameter.toUpperCase();
 				for (Positions position : personsList) {
 					if (position.getTitle().toUpperCase().indexOf(searchParameter)!= -1 || position.getCompany().toUpperCase().indexOf(searchParameter)!= -1
-							|| position.getLocation().toUpperCase().indexOf(searchParameter)!= -1 || position.getDescribe().toUpperCase().indexOf(searchParameter)!= -1
+							|| position.getLocation().toUpperCase().indexOf(searchParameter)!= -1 || position.getDescription().toUpperCase().indexOf(searchParameter)!= -1
 							|| position.getSalary().toUpperCase().indexOf(searchParameter)!= -1 || position.getJobapplydate().toUpperCase().indexOf(searchParameter)!= -1) {
 						personsListForSearch.add(position);					
 					}

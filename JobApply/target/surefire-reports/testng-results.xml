@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="com.test.springmvc.controller.AppControllerTest" duration-ms="0" started-at="2017-08-18T22:00:37Z" finished-at="2017-08-18T22:00:37Z">
+  <suite name="Command line suite" duration-ms="1" started-at="2017-09-18T23:02:22Z" finished-at="2017-09-18T23:02:22Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="0" started-at="2017-08-18T22:00:37Z" finished-at="2017-08-18T22:00:37Z">
+    <test name="Command line test" duration-ms="1" started-at="2017-09-18T23:02:22Z" finished-at="2017-09-18T23:02:22Z">
     </test> <!-- Command line test -->
-  </suite> <!-- com.test.springmvc.controller.AppControllerTest -->
+  </suite> <!-- Command line suite -->
 </testng-results>

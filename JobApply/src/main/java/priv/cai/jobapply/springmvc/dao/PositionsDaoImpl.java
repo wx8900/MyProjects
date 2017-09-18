@@ -80,9 +80,9 @@ public class PositionsDaoImpl extends AbstractDao<Integer, Positions> implements
 		Criteria criteria = createEntityCriteria();
 		Criterion title = Restrictions.like("title", keywords, MatchMode.ANYWHERE);
 		Criterion company = Restrictions.like("company", keywords, MatchMode.ANYWHERE);
-		Criterion describe = Restrictions.like("describe", keywords, MatchMode.ANYWHERE);
+		Criterion description = Restrictions.like("description", keywords, MatchMode.ANYWHERE);
 		Criterion location = Restrictions.like("location", loca, MatchMode.ANYWHERE);
-		criteria.add(Restrictions.or(title, company, describe));
+		criteria.add(Restrictions.or(title, company, description));
 		criteria.add(location);
 		// To get records having salary more than 2000
 		//criteria.add(Restrictions.gt("salary", 2000));

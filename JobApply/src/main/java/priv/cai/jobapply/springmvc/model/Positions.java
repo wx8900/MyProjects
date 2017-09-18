@@ -62,8 +62,8 @@ public class Positions implements Serializable, Comparable<Positions> {
 	private String applyemail;
 	
 	@Size(min=0, max=300)
-	@Column(name = "describe", nullable = true)
-	private String describe;
+	@Column(name = "description", nullable = true)
+	private String description;
 	
 	@Size(min=0, max=15)
 	@Column(name = "reviews", nullable = true)
@@ -196,12 +196,12 @@ public class Positions implements Serializable, Comparable<Positions> {
 		this.salary = salary;
 	}
 
-	public String getDescribe() {
-		return describe;
+	public String getDescription() {
+		return description;
 	}
 
-	public void setDescribe(String describe) {
-		this.describe = describe;
+	public void setDescription(String description) {
+		this.description = description;
 	}
 
 	public String getReviews() {
@@ -365,7 +365,7 @@ public class Positions implements Serializable, Comparable<Positions> {
 		return "Positions [id=" + id + ", category=" + category + ", jobtype=" + jobtype + ", experiencelevel="
 				+ experiencelevel + ", title=" + title + ", company=" + company + ", location=" + location
 				+ ", zipcode=" + zipcode + ", salary=" + salary + ", applyemail=" + applyemail + ", describe="
-				+ describe + ", reviews=" + reviews + ", stars=" + stars + ", sponsored=" + sponsored + ", likeit="
+				+ description + ", reviews=" + reviews + ", stars=" + stars + ", sponsored=" + sponsored + ", likeit="
 				+ likeit + ", jobcreated=" + jobcreated + ", joblastchecked=" + joblastchecked + ", jobinsertdate="
 				+ jobinsertdate + ", jobapplydate=" + jobapplydate + ", responsedate=" + responsedate + ", titlehref="
 				+ titlehref + ", companyhref=" + companyhref + ", comments=" + comments + "]";
