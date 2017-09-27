@@ -24,14 +24,6 @@ public class Users implements Serializable {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
 	
-	@Size(min=0, max=10)
-	@Column(name = "category", nullable = true)
-	private String category; // IT, Sales, Marketing, Accounting
-	
-	@Size(min=0, max=1)
-	@Column(name = "jobtype", nullable = true)
-	private String jobtype; //Full-time (171),  Part-time (20), Contract (12), Temporary (3), Internship (2)
-	
 	@NotNull
 	@Size(min=1, max=50)
 	@Column(name = "username", nullable = false)
@@ -39,10 +31,18 @@ public class Users implements Serializable {
 	
 	@NotNull
 	@Size(min=1, max=50)
-	@Column(name = "password", nullable = false)
-	private String password;
+	@Column(name = "pwd", nullable = false)
+	private String pwd;
 	
-	@Size(min=0, max=1)
+	@Size(min=0, max=10)
+	@Column(name = "category", nullable = true)
+	private String category; // IT, Sales, Marketing, Accounting
+	
+	@Size(min=0, max=3)
+	@Column(name = "jobtype", nullable = true)
+	private String jobtype; //Full-time (171),  Part-time (20), Contract (12), Temporary (3), Internship (2)
+	
+	@Size(min=0, max=3)
 	@Column(name = "experiencelevel", nullable = true)
 	private String experiencelevel;  //Mid Level (103), Entry Level (43), Senior Level (14)
 
@@ -106,12 +106,12 @@ public class Users implements Serializable {
 		this.username = username;
 	}
 
-	public String getPassword() {
-		return password;
+	public String getPwd() {
+		return pwd;
 	}
 
-	public void setPassword(String password) {
-		this.password = password;
+	public void setPwd(String pwd) {
+		this.pwd = pwd;
 	}
 
 	public String getExperiencelevel() {

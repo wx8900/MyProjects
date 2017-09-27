@@ -28,11 +28,11 @@ public class Positions implements Serializable, Comparable<Positions> {
 	@Column(name = "category", nullable = true)
 	private String category; // IT, Sales, Marketing, Accounting
 	
-	@Size(min=0, max=1)
+	@Size(min=0, max=3)
 	@Column(name = "jobtype", nullable = true)
 	private String jobtype; //Full-time (171),  Part-time (20), Contract (12), Temporary (3), Internship (2)
 	
-	@Size(min=0, max=1)
+	@Size(min=0, max=3)
 	@Column(name = "experiencelevel", nullable = true)
 	private String experiencelevel;  //Mid Level (103), Entry Level (43), Senior Level (14)
 
@@ -361,17 +361,6 @@ public class Positions implements Serializable, Comparable<Positions> {
 	}
 
 	@Override
-	public String toString() {
-		return "Positions [id=" + id + ", category=" + category + ", jobtype=" + jobtype + ", experiencelevel="
-				+ experiencelevel + ", title=" + title + ", company=" + company + ", location=" + location
-				+ ", zipcode=" + zipcode + ", salary=" + salary + ", applyemail=" + applyemail + ", describe="
-				+ description + ", reviews=" + reviews + ", stars=" + stars + ", sponsored=" + sponsored + ", likeit="
-				+ likeit + ", jobcreated=" + jobcreated + ", joblastchecked=" + joblastchecked + ", jobinsertdate="
-				+ jobinsertdate + ", jobapplydate=" + jobapplydate + ", responsedate=" + responsedate + ", titlehref="
-				+ titlehref + ", companyhref=" + companyhref + ", comments=" + comments + "]";
-	}
-
-	@Override
 	public int compareTo(Positions other) {
 		if(other.jobapplydate != null) {
 			int i = jobapplydate.compareTo(other.jobapplydate);
@@ -389,7 +378,17 @@ public class Positions implements Serializable, Comparable<Positions> {
 		}
 		
 	    return Integer.compare(id, other.id);
+	}
 
+	@Override
+	public String toString() {
+		return "Positions [id=" + id + ", category=" + category + ", jobtype=" + jobtype + ", experiencelevel="
+				+ experiencelevel + ", title=" + title + ", company=" + company + ", location=" + location
+				+ ", zipcode=" + zipcode + ", salary=" + salary + ", applyemail=" + applyemail + ", description="
+				+ description + ", reviews=" + reviews + ", stars=" + stars + ", sponsored=" + sponsored + ", likeit="
+				+ likeit + ", jobcreated=" + jobcreated + ", joblastchecked=" + joblastchecked + ", jobinsertdate="
+				+ jobinsertdate + ", jobapplydate=" + jobapplydate + ", responsedate=" + responsedate + ", titlehref="
+				+ titlehref + ", companyhref=" + companyhref + ", comments=" + comments + "]";
 	}
 
 }

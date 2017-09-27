@@ -102,7 +102,7 @@
 		class="org.springframework.scheduling.quartz.CronTriggerFactoryBean">
 		<property name="jobDetail" ref="doJob" />
 		<!-- 5 minutes -->
-		<property name="cronExpression" value="0/30 * * * * ?" />
+		<property name="cronExpression" value="30 * * * * ?" />
 		<!-- Fire at 10:15am every Monday, Tuesday, Wednesday, Thursday and Friday -->
 		<!--<property name="cronExpression" value="0 15 10 ? * MON-FRI" />-->
 	</bean>

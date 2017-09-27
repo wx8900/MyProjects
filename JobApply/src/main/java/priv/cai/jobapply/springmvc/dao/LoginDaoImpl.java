@@ -14,12 +14,12 @@ public class LoginDaoImpl extends AbstractDao<Integer, Users> implements LoginDa
 	public Users findByUsernameAndPassword(String username, String password) {
 		Criteria criteria = createEntityCriteria();
 		Criterion usernameInput = Restrictions.eq("username", username);
-		Criterion passwordInput = Restrictions.eq("password", password);
+		Criterion passwordInput = Restrictions.eq("pwd", password);
 		criteria.add(usernameInput);
 		criteria.add(passwordInput);
 		Users user = (Users) criteria.uniqueResult();
 
-		return (user == null ? new Users() : user);
+		return (user == null ? null : user);
 	}
 
 	@Override

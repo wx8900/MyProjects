@@ -56,6 +56,13 @@ public class PositionsDaoImpl extends AbstractDao<Integer, Positions> implements
 		query.setString("id", id);
 		query.executeUpdate();
 	}
+	
+	@SuppressWarnings("unchecked")
+	public List<Positions> findAllPositions() {
+		Criteria criteria = createEntityCriteria();
+		criteria.addOrder(Order.desc("jobinsertdate"));
+		return (List<Positions>) criteria.list();
+	}
 
 	@SuppressWarnings("unchecked")
 	public List<Positions> findAllPositions(Integer firstResult, Integer pageSize) {

@@ -56,9 +56,16 @@ public class SendEmailController {
 			po.setJoblastchecked(date.substring(0, 10));
 			po.setLikeit("1");
 			positionsService.saveOruUpdatePositions(po);
+			logger.info("saveOruUpdatePositions=========> " + po.toString());
+			
+			String emailAddress = "";
+			if (po.getApplyemail() == null) {
+				emailAddress = "cwx8900@gmail.com";
+			}
 			
 			try {
-				emailService.sendEmail(null, null, null, po.getApplyemail());
+				emailService.sendEmail(null, null, null, emailAddress);
+				logger.info("emailService.sendEmail =========> emailAddress : "+emailAddress);
 			} catch (Exception e) {
 				logger.error("This is error : " + e);
 			}

@@ -29,16 +29,25 @@ public class PositionsController {
 	MessageSource messageSource;*/
 	
 	List<Positions> positionsList;
-
 	
 	@RequestMapping(value = { "/listAll" }, method = RequestMethod.GET)
+	public String listPositions(Model model) {
+		
+		positionsList = service.findAllPositions();
+		model.addAttribute("positions", positionsList);
+		
+		return "allpositions";
+	}
+
+	
+	/*@RequestMapping(value = { "/listAll" }, method = RequestMethod.GET)
 	public String listPositions(Model model) {
 		
 		positionsList = service.findAllPositions(0, 10);
 		model.addAttribute("positions", positionsList);
 		
 		return "allpositions";
-	}
+	}*/
 	
 	/*@RequestMapping(value = { "/listAppliedPositions" }, method = RequestMethod.GET)
 	public String listAppliedPositions(Model model) {
@@ -118,6 +127,27 @@ public class PositionsController {
 		List<Positions> listPositions = new ArrayList<Positions>(75);
 		
 		if((keywords == null || ("").equals(keywords)) && (location == null || ("").equals(location))) {
+			listPositions = service.findAllPositions();
+		} else {
+			//listPositions = service.findByParamValue("location", location);
+			listPositions = service.findPositionsByConditions(keywords, location);
+		}
+		
+		System.out.println("keywords ===================== "+keywords);
+		System.out.println("location ===================== "+location);
+		System.out.println("listPositions.size ===================== "+listPositions.size());
+		
+		model.addAttribute("positions", listPositions);
+		return "allpositions";
+	}
+	
+	/*@RequestMapping(value = { "/searchjobs" }, method = RequestMethod.GET)
+	public String listPositions(@RequestParam("q") String keywords,
+								@RequestParam("l") String location, Model model) {
+
+		List<Positions> listPositions = new ArrayList<Positions>(50);
+		
+		if((keywords == null || ("").equals(keywords)) && (location == null || ("").equals(location))) {
 			listPositions = service.findAllPositions(0, 10);
 		} else {
 			//listPositions = service.findByParamValue("location", location);
@@ -132,7 +162,7 @@ public class PositionsController {
 		
 		model.addAttribute("positions", listPositions);
 		return "allpositions";
-	}
+	}*/
 	
 	@RequestMapping(value = { "/searchjobsbyapplied" }, method = RequestMethod.GET)
 	public String listPositionsApplied(@RequestParam("userId") String userId, Model model) {

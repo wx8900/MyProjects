@@ -15,6 +15,8 @@ public interface PositionsDao {
 	
 	void deleteEmployeeBySsn(String id);
 	
+	List<Positions> findAllPositions();
+	
 	List<Positions> findAllPositions(Integer firstResult, Integer pageSize);
 
 	Positions findPositionsBySsn(String ssn);

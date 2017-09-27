@@ -13,6 +13,8 @@ public interface PositionsService {
 	void saveList(List<Positions> poList);
 	
 	void deletePositionsBySsn(String ssn);
+	
+	List<Positions> findAllPositions();
 
 	List<Positions> findAllPositions(Integer firstResult, Integer pageSize); 
 	

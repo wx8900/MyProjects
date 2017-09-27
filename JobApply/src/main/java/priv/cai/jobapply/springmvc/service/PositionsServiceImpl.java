@@ -46,6 +46,11 @@ public class PositionsServiceImpl implements PositionsService {
 	}
 	
 	@Override
+	public List<Positions> findAllPositions() {
+		return dao.findAllPositions();
+	}
+	
+	@Override
 	public List<Positions> findAllPositions(Integer firstResult, Integer pageSize) {
 		return dao.findAllPositions(firstResult, pageSize);
 	}

@@ -10,18 +10,17 @@
     src="${pageContext.request.contextPath}/scripts/common.js"></script>
  
  
-<link rel="stylesheet" type="text/css"
+<%-- <link rel="stylesheet" type="text/css"
     href="${pageContext.request.contextPath}/styles/common.css">
  
 </head>
 <body>
- 
-<pre>
-Config: /styles/** ==> /WEB-INF/resources/css/
+<pre> --%>
+<!-- Config: /styles/** ==> /WEB-INF/resources/css/
 ----------------------------------------------
         /styles/common.css ==> /WEB-INF/resources/css/common.css
         /styles/path1/abc.css ==> /WEB-INF/resources/css/path1/abc.css
-        /styles/path1/path2/abc.css ==> /WEB-INF/resources/css/path1/path2/abc.css
+        /styles/path1/path2/abc.css ==> /WEB-INF/resources/css/path1/path2/abc.css -->
  
        
 <h2>Access link :</h2> 

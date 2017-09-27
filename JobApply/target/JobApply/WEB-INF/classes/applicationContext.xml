@@ -53,12 +53,21 @@
         </property>   
     </bean> -->  
    
-   <bean id="dataSource"
+   <!-- SQLServer -->
+   <!--<bean id="dataSource"
     class="org.apache.tomcat.dbcp.dbcp.BasicDataSource">
       <property name="driverClassName" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />
       <property name="url" value="jdbc:sqlserver://localhost:1433;databaseName=JobApply;integratedSecurity=true;" />
       <property name="username" value="" />
       <property name="password" value="" />
+   </bean>-->
+   <!-- MySQL -->
+   <bean id="dataSource"
+    class="org.apache.tomcat.dbcp.dbcp.BasicDataSource">
+      <property name="driverClassName" value="com.mysql.jdbc.Driver" />
+      <property name="url" value="jdbc:mysql://localhost:3306/JobApply?useSSL=false" />
+      <property name="username" value="root" />
+      <property name="password" value="123456" />
    </bean>
    
    <bean id="sessionFactory"
@@ -93,7 +102,7 @@
 		class="org.springframework.scheduling.quartz.CronTriggerFactoryBean">
 		<property name="jobDetail" ref="doJob" />
 		<!-- 5 minutes -->
-		<property name="cronExpression" value="0/30 * * * * ?" />
+		<property name="cronExpression" value="30 * * * * ?" />
 		<!-- Fire at 10:15am every Monday, Tuesday, Wednesday, Thursday and Friday -->
 		<!--<property name="cronExpression" value="0 15 10 ? * MON-FRI" />-->
 	</bean>

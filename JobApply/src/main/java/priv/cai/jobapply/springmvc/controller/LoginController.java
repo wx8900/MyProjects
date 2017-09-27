@@ -49,7 +49,7 @@ public class LoginController {
 
 		Users user = new Users();
 		user.setUsername(username.trim());
-		user.setPassword(password.trim());
+		user.setPwd(password.trim());
 		user.setEmail(email);
 		user.setState(state);
 		user.setCity(city);
