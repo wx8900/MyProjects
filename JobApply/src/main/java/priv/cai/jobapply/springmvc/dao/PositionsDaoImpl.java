@@ -118,7 +118,7 @@ public class PositionsDaoImpl extends AbstractDao<Integer, Positions> implements
 				criteria.add(Restrictions.isNull(columnName));
 			}
 		}
-		
+		criteria.addOrder(Order.desc("sponsored"));
 		criteria.addOrder(Order.desc("jobinsertdate"));
 		return (List<Positions>) criteria.list();
 	}

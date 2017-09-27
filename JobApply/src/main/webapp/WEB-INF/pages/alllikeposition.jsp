@@ -97,8 +97,8 @@ function formSubmit(key,value)
 					<td class="text-left">${position.salary}</td>
 					<c:set var="location" value="${position.location}" />
 					<td class="text-left">${fn:substring(location, 0, 18)}</td>
-					<c:set var="describe" value="${position.describe}" />
-					<td class="text-left"><a href="${companyHost}${position.titlehref}" target="_blank">${fn:substring(describe, 0, 35)}</a></td>
+					<c:set var="description" value="${position.description}" />
+					<td class="text-left"><a href="${companyHost}${position.titlehref}" target="_blank">${fn:substring(description, 0, 35)}</a></td>
 					<td class="text-left">${position.reviews}</td>
 					<!--<td class="text-left">${position.stars}</td>-->
 					<c:choose>
