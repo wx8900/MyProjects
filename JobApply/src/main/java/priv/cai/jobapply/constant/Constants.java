@@ -23,7 +23,7 @@ public final class Constants {
 	public static final String PATH_PROPERTIES = "src/main/resources/data/config.properties";
 	public static final String PATH_PROPERTIES_EMAIL = "src/main/resources/emailconfig.properties";
 
-	public static final String PATH_RESUME = "src/main/resources/uploadresume/Resume.docx";
+	public static final String PATH_RESUME = "src/main/resources/uploadresume/Jack Cai_Resume.docx";
 	public static final String PATH_COVER_LETTER = "src/main/resources/uploadresume/Cover Letter.docx";
 	
 	public static final String FILE_NAME = "src/main/resources/dataset/";
