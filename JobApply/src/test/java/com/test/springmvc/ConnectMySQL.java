@@ -43,7 +43,7 @@ public class ConnectMySQL {
 					System.out.println("-----------------");
 					System.out.println("执行结果如下所示:");  
 					System.out.println("-----------------");  
-					System.out.println(" 学号" + "\t" + " 姓名");  
+					System.out.println(" ID" + "\t" + " Name");  
 					System.out.println("-----------------");  
 					
 					String name = null;

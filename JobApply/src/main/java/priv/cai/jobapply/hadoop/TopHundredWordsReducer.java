@@ -1,4 +1,4 @@
-package priv.cai.jobapply.hadoop;
+/*package priv.cai.jobapply.hadoop;
 
 import java.io.IOException;
 import java.util.TreeMap;
@@ -27,3 +27,4 @@ public class TopHundredWordsReducer extends
 		}
 	}
 }
+*/

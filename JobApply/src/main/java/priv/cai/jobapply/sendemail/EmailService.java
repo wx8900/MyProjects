@@ -14,7 +14,7 @@ import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 
 public class EmailService {
@@ -23,7 +23,7 @@ public class EmailService {
 		new EmailService().test();
 	}
 
-@Test
+//@Test
 public void test(){
     Properties props = System.getProperties();
     props.put("mail.smtp.starttls.enable", true); // added this line

@@ -17,6 +17,7 @@ public class SpringWebAppInitializer implements WebApplicationInitializer {
  
 	private static AbstractApplicationContext context;
 	
+	// setup the quartz rule file & connect to DB
 	String[] springConfig  =
 		{	"applicationContext.xml"
 			

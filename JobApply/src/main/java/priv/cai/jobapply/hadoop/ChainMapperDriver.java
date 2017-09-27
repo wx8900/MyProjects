@@ -1,4 +1,4 @@
-package priv.cai.jobapply.hadoop;
+/*package priv.cai.jobapply.hadoop;
 
 
 import org.apache.hadoop.conf.Configuration;
@@ -80,3 +80,4 @@ public class ChainMapperDriver {
 
 
 }
+*/

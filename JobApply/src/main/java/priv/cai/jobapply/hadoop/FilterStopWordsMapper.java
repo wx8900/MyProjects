@@ -1,4 +1,4 @@
-package priv.cai.jobapply.hadoop;
+/*package priv.cai.jobapply.hadoop;
 
 import java.io.IOException;
 import java.util.regex.Matcher;
@@ -33,4 +33,4 @@ public class FilterStopWordsMapper extends Mapper<LongWritable, Text, Text, Long
 		}
 	}
 }
-
+*/

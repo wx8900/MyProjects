@@ -1,4 +1,4 @@
-package priv.cai.jobapply.hadoop;
+/*package priv.cai.jobapply.hadoop;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -58,3 +58,4 @@ public class WordSumReducer extends
 		context.write(key, outvalue);
 	}
 }
+*/
