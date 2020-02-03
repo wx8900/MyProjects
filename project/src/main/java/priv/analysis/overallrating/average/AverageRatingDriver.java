@@ -11,6 +11,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.GenericOptionsParser;
 
 public class AverageRatingDriver {
+	
 
 	public static void main(String[] args) throws Exception {
 
