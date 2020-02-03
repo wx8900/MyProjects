@@ -1,0 +1,25 @@
+package priv.top.product;
+
+import java.io.IOException;
+
+import org.apache.hadoop.io.IntWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Mapper;
+
+import priv.entity.Review;
+
+import com.alibaba.fastjson.JSON;
+
+public class ProductCountMapper extends
+		Mapper<Object, Text, Text, IntWritable> {
+	private final static IntWritable one = new IntWritable(1);
+	private Text word = new Text();
+
+	public void map(Object key, Text value, Context context)
+			throws IOException, InterruptedException {
+
+		Review review = JSON.parseObject(value.toString(), Review.class);
+		word.set(review.getAsin());
+		context.write(word, one);
+	}
+}
