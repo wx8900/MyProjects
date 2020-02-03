@@ -49,8 +49,8 @@
 		<form class="form-wrapper" action="searchjobsbylikeit" method="get"
 			name="jobslikeit" id="jobslikeit">
 			<input type="hidden" id="userId" name="userId"
-				value="<c:out value="${sessionScope.userId}"/>"> <input
-				type="submit" value="Review&nbsp;Liked&nbsp;Jobs">
+				value="<c:out value="${sessionScope.userId}"/>">
+			<input type="submit" value="Review&nbsp;Liked&nbsp;Jobs">
 		</form>
 	</center>
 
@@ -82,7 +82,10 @@
 							<c:otherwise>
 								<form action="likeit" method="get" name="likeit" id="likeit">
 									<input type="hidden" id="likeId" name="likeId"
-										value="${position.id}"> <input id="like" type="submit"
+										value="${position.id}">
+									<input type="hidden" id="jobId" name="jobId"
+				                         value="<c:out value='${position.id}'/>">
+									<input id="like" type="submit"
 										value="Like&nbsp;it" class="likeitButton">
 								</form>
 							</c:otherwise>

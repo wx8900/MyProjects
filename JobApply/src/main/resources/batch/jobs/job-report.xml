@@ -7,7 +7,7 @@
 	http://www.springframework.org/schema/beans
 	http://www.springframework.org/schema/beans/spring-beans-3.2.xsd">
 
-  <bean id="positions" class="com.springmvc.model.Positions" scope="prototype" />
+  <bean id="positions" class="priv.cai.jobapply.springmvc.model.Positions" scope="prototype" />
 
   <batch:job id="positionJob">
 	<batch:step id="step1">

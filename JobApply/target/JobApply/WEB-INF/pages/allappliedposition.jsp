@@ -4,11 +4,10 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn"%>
 <c:set var="companyHost" value="https://www.indeed.com/" />
 <c:set var="context" value="${pageContext.request.contextPath}" />
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <title>Positions List</title>
 <link rel="stylesheet" type="text/css"
 	href="${context}/styles/demo.css">
@@ -96,8 +95,8 @@
 					<td class="text-left">${position.salary}</td>
 					<c:set var="location" value="${position.location}" />
 					<td class="text-left">${fn:substring(location, 0, 18)}</td>
-					<c:set var="describe" value="${position.describe}" />
-					<td class="text-left"><a href="${companyHost}${position.titlehref}" target="_blank">${fn:substring(describe, 0, 35)}</a></td>
+					<c:set var="description" value="${position.description}" />
+					<td class="text-left"><a href="${companyHost}${position.titlehref}" target="_blank">${fn:substring(description, 0, 35)}</a></td>
 					<td class="text-left">${position.reviews}</td>
 					<!--<td class="text-left">${position.stars}</td>-->
 					<c:choose>

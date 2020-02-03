@@ -13,8 +13,8 @@
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/controller/PathVariableExampleController.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/hadoop/TopHundredWordsMapper.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/service/EmailServiceImpl.java
-/Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/constant/Distance.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/utils/Pager.java
+/Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/constant/Distance.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/constant/Stars.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/dao/LoginDao.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/model/Positions.java
@@ -28,12 +28,12 @@
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/controller/SendEmailController.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/controller/SpringMVCController.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/service/PositionsService.java
-/Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/constant/JobType.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/dataload/parser/ElementsParser.java
+/Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/constant/JobType.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/controller/PositionsPageController.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/model/PositionJsonObject.java
-/Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/sendemail/EmailService.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/utils/HibernateUtil.java
+/Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/sendemail/EmailService.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/config/ApplicationContextConfig.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/dao/PositionsDao.java
 /Users/Jack_Cai/Documents/study/workspaceneon/MyProjects/JobApply/src/main/java/priv/cai/jobapply/springmvc/config/AppInitializer.java

@@ -33,8 +33,8 @@ priv/cai/jobapply/dataload/spider/SaveTXTFiles.class
 priv/cai/jobapply/springmvc/model/PositionJsonObject.class
 priv/cai/jobapply/springmvc/config/ApplicationContextConfig.class
 priv/cai/jobapply/springmvc/model/Users.class
-priv/cai/jobapply/constant/Constants.class
 priv/cai/jobapply/utils/Pagination.class
+priv/cai/jobapply/constant/Constants.class
 priv/cai/jobapply/sendemail/WithAttachmentMessage.class
 priv/cai/jobapply/constant/Stars.class
 priv/cai/jobapply/springmvc/controller/SpringMVCController.class
@@ -51,6 +51,6 @@ priv/cai/jobapply/springmvc/controller/CallableThread.class
 priv/cai/jobapply/springmvc/config/WebMvcConfig.class
 priv/cai/jobapply/springmvc/controller/PathVariableExampleController.class
 priv/cai/jobapply/springmvc/service/PositionsServiceImpl.class
-priv/cai/jobapply/sendemail/SendMailTLS.class
 priv/cai/jobapply/utils/Pager.class
+priv/cai/jobapply/sendemail/SendMailTLS.class
 priv/cai/jobapply/dataload/spider/TextFilter.class

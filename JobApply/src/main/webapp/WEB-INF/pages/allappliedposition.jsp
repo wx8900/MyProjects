@@ -5,10 +5,9 @@
 <c:set var="companyHost" value="https://www.indeed.com/" />
 <c:set var="context" value="${pageContext.request.contextPath}" />
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <title>Positions List</title>
 <link rel="stylesheet" type="text/css"
 	href="${context}/styles/demo.css">
